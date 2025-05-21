@@ -1,0 +1,3241 @@
+item,year,gsdp,state
+"Agriculture, forestry and fishing",2011-12,9400805,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,11186428,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,12895568,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,14819416,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,17326726,Andhra_Pradesh
+"Agriculture, forestry and fishing",2016-17,20386004,Andhra_Pradesh
+Crops,2011-12,5204052,Andhra_Pradesh
+Crops,2012-13,6123041,Andhra_Pradesh
+Crops,2013-14,7114707,Andhra_Pradesh
+Crops,2014-15,7893514,Andhra_Pradesh
+Crops,2015-16,8644285,Andhra_Pradesh
+Crops,2016-17,9717089,Andhra_Pradesh
+Livestock,2011-12,2758776,Andhra_Pradesh
+Livestock,2012-13,3358438,Andhra_Pradesh
+Livestock,2013-14,3643026,Andhra_Pradesh
+Livestock,2014-15,4309078,Andhra_Pradesh
+Livestock,2015-16,5155487,Andhra_Pradesh
+Livestock,2016-17,5979648,Andhra_Pradesh
+Forestry and logging,2011-12,250314,Andhra_Pradesh
+Forestry and logging,2012-13,253029,Andhra_Pradesh
+Forestry and logging,2013-14,280493,Andhra_Pradesh
+Forestry and logging,2014-15,346160,Andhra_Pradesh
+Forestry and logging,2015-16,340550,Andhra_Pradesh
+Forestry and logging,2016-17,335487,Andhra_Pradesh
+Fishing and aquaculture,2011-12,1187663,Andhra_Pradesh
+Fishing and aquaculture,2012-13,1451920,Andhra_Pradesh
+Fishing and aquaculture,2013-14,1857342,Andhra_Pradesh
+Fishing and aquaculture,2014-15,2270664,Andhra_Pradesh
+Fishing and aquaculture,2015-16,3186404,Andhra_Pradesh
+Fishing and aquaculture,2016-17,4353780,Andhra_Pradesh
+Mining and quarrying,2011-12,1416194,Andhra_Pradesh
+Mining and quarrying,2012-13,1459027,Andhra_Pradesh
+Mining and quarrying,2013-14,1419200,Andhra_Pradesh
+Mining and quarrying,2014-15,1484300,Andhra_Pradesh
+Mining and quarrying,2015-16,1633100,Andhra_Pradesh
+Mining and quarrying,2016-17,1757565,Andhra_Pradesh
+Manufacturing,2011-12,5070622,Andhra_Pradesh
+Manufacturing,2012-13,4237657,Andhra_Pradesh
+Manufacturing,2013-14,4242337,Andhra_Pradesh
+Manufacturing,2014-15,4672266,Andhra_Pradesh
+Manufacturing,2015-16,5078685,Andhra_Pradesh
+Manufacturing,2016-17,5740816,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,1076517,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,713029,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,1014130,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,1151729,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,1251910,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2016-17,1298947,Andhra_Pradesh
+Construction,2011-12,3702645,Andhra_Pradesh
+Construction,2012-13,3759004,Andhra_Pradesh
+Construction,2013-14,4065131,Andhra_Pradesh
+Construction,2014-15,4664889,Andhra_Pradesh
+Construction,2015-16,4986189,Andhra_Pradesh
+Construction,2016-17,5467732,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,2673600,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,3179200,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,3784900,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,4233400,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,4577700,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2016-17,5174600,Andhra_Pradesh
+Trade & repair services,2011-12,2322700,Andhra_Pradesh
+Trade & repair services,2012-13,2775600,Andhra_Pradesh
+Trade & repair services,2013-14,3290800,Andhra_Pradesh
+Trade & repair services,2014-15,3716000,Andhra_Pradesh
+Trade & repair services,2015-16,3964000,Andhra_Pradesh
+Trade & repair services,2016-17,4382200,Andhra_Pradesh
+Hotels & restaurants,2011-12,350900,Andhra_Pradesh
+Hotels & restaurants,2012-13,403600,Andhra_Pradesh
+Hotels & restaurants,2013-14,494100,Andhra_Pradesh
+Hotels & restaurants,2014-15,517400,Andhra_Pradesh
+Hotels & restaurants,2015-16,613700,Andhra_Pradesh
+Hotels & restaurants,2016-17,792400,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,3251379,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,3778632,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,4365811,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,5076984,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,5806226,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2016-17,6766317,Andhra_Pradesh
+Railways,2011-12,264279,Andhra_Pradesh
+Railways,2012-13,303702,Andhra_Pradesh
+Railways,2013-14,334468,Andhra_Pradesh
+Railways,2014-15,424228,Andhra_Pradesh
+Railways,2015-16,436596,Andhra_Pradesh
+Railways,2016-17,445372,Andhra_Pradesh
+Road transport,2011-12,1824800,Andhra_Pradesh
+Road transport,2012-13,2200400,Andhra_Pradesh
+Road transport,2013-14,2516200,Andhra_Pradesh
+Road transport,2014-15,2816000,Andhra_Pradesh
+Road transport,2015-16,3217400,Andhra_Pradesh
+Road transport,2016-17,3798300,Andhra_Pradesh
+Water transport,2011-12,95100,Andhra_Pradesh
+Water transport,2012-13,90400,Andhra_Pradesh
+Water transport,2013-14,60600,Andhra_Pradesh
+Water transport,2014-15,94200,Andhra_Pradesh
+Water transport,2015-16,110500,Andhra_Pradesh
+Water transport,2016-17,123600,Andhra_Pradesh
+Air transport,2011-12,4500,Andhra_Pradesh
+Air transport,2012-13,10600,Andhra_Pradesh
+Air transport,2013-14,5100,Andhra_Pradesh
+Air transport,2014-15,14900,Andhra_Pradesh
+Air transport,2015-16,25000,Andhra_Pradesh
+Air transport,2016-17,28000,Andhra_Pradesh
+Services incidental to transport,2011-12,501800,Andhra_Pradesh
+Services incidental to transport,2012-13,535500,Andhra_Pradesh
+Services incidental to transport,2013-14,634700,Andhra_Pradesh
+Services incidental to transport,2014-15,780200,Andhra_Pradesh
+Services incidental to transport,2015-16,904200,Andhra_Pradesh
+Services incidental to transport,2016-17,1020800,Andhra_Pradesh
+Storage,2011-12,20700,Andhra_Pradesh
+Storage,2012-13,16600,Andhra_Pradesh
+Storage,2013-14,18700,Andhra_Pradesh
+Storage,2014-15,18700,Andhra_Pradesh
+Storage,2015-16,19000,Andhra_Pradesh
+Storage,2016-17,20600,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,540200,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,621430,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,796043,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,928756,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,1093530,Andhra_Pradesh
+Communication & services related to broadcasting,2016-17,1329645,Andhra_Pradesh
+Financial services,2011-12,1425608,Andhra_Pradesh
+Financial services,2012-13,1584297,Andhra_Pradesh
+Financial services,2013-14,1710463,Andhra_Pradesh
+Financial services,2014-15,1900863,Andhra_Pradesh
+Financial services,2015-16,2125508,Andhra_Pradesh
+Financial services,2016-17,2415390,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,2833805,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,3434098,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,3897345,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,4405409,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,5092310,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2016-17,5942431,Andhra_Pradesh
+Public administration,2011-12,1393752,Andhra_Pradesh
+Public administration,2012-13,1552379,Andhra_Pradesh
+Public administration,2013-14,1738971,Andhra_Pradesh
+Public administration,2014-15,2200897,Andhra_Pradesh
+Public administration,2015-16,2594904,Andhra_Pradesh
+Public administration,2016-17,3039676,Andhra_Pradesh
+Other services,2011-12,2730376,Andhra_Pradesh
+Other services,2012-13,3063920,Andhra_Pradesh
+Other services,2013-14,3538298,Andhra_Pradesh
+Other services,2014-15,4215389,Andhra_Pradesh
+Other services,2015-16,5248604,Andhra_Pradesh
+Other services,2016-17,6180240,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,455505,Arunachal_Pradesh
+"Agriculture, forestry and fishing",2012-13,545406,Arunachal_Pradesh
+"Agriculture, forestry and fishing",2013-14,603944,Arunachal_Pradesh
+"Agriculture, forestry and fishing",2014-15,686117,Arunachal_Pradesh
+"Agriculture, forestry and fishing",2015-16,744726,Arunachal_Pradesh
+Crops,2011-12,255815,Arunachal_Pradesh
+Crops,2012-13,331962,Arunachal_Pradesh
+Crops,2013-14,360344,Arunachal_Pradesh
+Crops,2014-15,415520,Arunachal_Pradesh
+Crops,2015-16,431318,Arunachal_Pradesh
+Livestock,2011-12,29657,Arunachal_Pradesh
+Livestock,2012-13,24249,Arunachal_Pradesh
+Livestock,2013-14,34027,Arunachal_Pradesh
+Livestock,2014-15,38387,Arunachal_Pradesh
+Livestock,2015-16,44386,Arunachal_Pradesh
+Forestry and logging,2011-12,165510,Arunachal_Pradesh
+Forestry and logging,2012-13,183780,Arunachal_Pradesh
+Forestry and logging,2013-14,204038,Arunachal_Pradesh
+Forestry and logging,2014-15,224017,Arunachal_Pradesh
+Forestry and logging,2015-16,258676,Arunachal_Pradesh
+Fishing and aquaculture,2011-12,4523,Arunachal_Pradesh
+Fishing and aquaculture,2012-13,5415,Arunachal_Pradesh
+Fishing and aquaculture,2013-14,5535,Arunachal_Pradesh
+Fishing and aquaculture,2014-15,8193,Arunachal_Pradesh
+Fishing and aquaculture,2015-16,10346,Arunachal_Pradesh
+Mining and quarrying,2011-12,23022,Arunachal_Pradesh
+Mining and quarrying,2012-13,35024,Arunachal_Pradesh
+Mining and quarrying,2013-14,43616,Arunachal_Pradesh
+Mining and quarrying,2014-15,30842,Arunachal_Pradesh
+Mining and quarrying,2015-16,38068,Arunachal_Pradesh
+Manufacturing,2011-12,12900,Arunachal_Pradesh
+Manufacturing,2012-13,14827,Arunachal_Pradesh
+Manufacturing,2013-14,19714,Arunachal_Pradesh
+Manufacturing,2014-15,26120,Arunachal_Pradesh
+Manufacturing,2015-16,37743,Arunachal_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,69131,Arunachal_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,78766,Arunachal_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,89594,Arunachal_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,113527,Arunachal_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,139187,Arunachal_Pradesh
+Construction,2011-12,104529,Arunachal_Pradesh
+Construction,2012-13,107821,Arunachal_Pradesh
+Construction,2013-14,124594,Arunachal_Pradesh
+Construction,2014-15,147842,Arunachal_Pradesh
+Construction,2015-16,161705,Arunachal_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,59892,Arunachal_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,50878,Arunachal_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,70494,Arunachal_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,60421,Arunachal_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,65846,Arunachal_Pradesh
+Trade & repair services,2011-12,56921,Arunachal_Pradesh
+Trade & repair services,2012-13,47880,Arunachal_Pradesh
+Trade & repair services,2013-14,67273,Arunachal_Pradesh
+Trade & repair services,2014-15,56796,Arunachal_Pradesh
+Trade & repair services,2015-16,62044,Arunachal_Pradesh
+Hotels & restaurants,2011-12,2971,Arunachal_Pradesh
+Hotels & restaurants,2012-13,2998,Arunachal_Pradesh
+Hotels & restaurants,2013-14,3221,Arunachal_Pradesh
+Hotels & restaurants,2014-15,3625,Arunachal_Pradesh
+Hotels & restaurants,2015-16,3802,Arunachal_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,23420,Arunachal_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,27306,Arunachal_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,33414,Arunachal_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,35203,Arunachal_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,42833,Arunachal_Pradesh
+Railways,2011-12,30,Arunachal_Pradesh
+Railways,2012-13,34,Arunachal_Pradesh
+Railways,2013-14,47,Arunachal_Pradesh
+Railways,2014-15,59,Arunachal_Pradesh
+Railways,2015-16,65,Arunachal_Pradesh
+Road transport,2011-12,12382,Arunachal_Pradesh
+Road transport,2012-13,13618,Arunachal_Pradesh
+Road transport,2013-14,16059,Arunachal_Pradesh
+Road transport,2014-15,15467,Arunachal_Pradesh
+Road transport,2015-16,20413,Arunachal_Pradesh
+Water transport,2011-12,0,Arunachal_Pradesh
+Water transport,2012-13,0,Arunachal_Pradesh
+Water transport,2013-14,0,Arunachal_Pradesh
+Water transport,2014-15,0,Arunachal_Pradesh
+Water transport,2015-16,0,Arunachal_Pradesh
+Air transport,2011-12,0,Arunachal_Pradesh
+Air transport,2012-13,0,Arunachal_Pradesh
+Air transport,2013-14,0,Arunachal_Pradesh
+Air transport,2014-15,0,Arunachal_Pradesh
+Air transport,2015-16,0,Arunachal_Pradesh
+Services incidental to transport,2011-12,78,Arunachal_Pradesh
+Services incidental to transport,2012-13,89,Arunachal_Pradesh
+Services incidental to transport,2013-14,100,Arunachal_Pradesh
+Services incidental to transport,2014-15,109,Arunachal_Pradesh
+Services incidental to transport,2015-16,121,Arunachal_Pradesh
+Storage,2011-12,0,Arunachal_Pradesh
+Storage,2012-13,0,Arunachal_Pradesh
+Storage,2013-14,0,Arunachal_Pradesh
+Storage,2014-15,0,Arunachal_Pradesh
+Storage,2015-16,0,Arunachal_Pradesh
+Communication & services related to broadcasting,2011-12,10930,Arunachal_Pradesh
+Communication & services related to broadcasting,2012-13,13565,Arunachal_Pradesh
+Communication & services related to broadcasting,2013-14,17208,Arunachal_Pradesh
+Communication & services related to broadcasting,2014-15,19568,Arunachal_Pradesh
+Communication & services related to broadcasting,2015-16,22234,Arunachal_Pradesh
+Financial services,2011-12,20884,Arunachal_Pradesh
+Financial services,2012-13,21562,Arunachal_Pradesh
+Financial services,2013-14,23571,Arunachal_Pradesh
+Financial services,2014-15,25207,Arunachal_Pradesh
+Financial services,2015-16,27548,Arunachal_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,38261,Arunachal_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,41869,Arunachal_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,44949,Arunachal_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,48418,Arunachal_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,50432,Arunachal_Pradesh
+Public administration,2011-12,135418,Arunachal_Pradesh
+Public administration,2012-13,149466,Arunachal_Pradesh
+Public administration,2013-14,183105,Arunachal_Pradesh
+Public administration,2014-15,243867,Arunachal_Pradesh
+Public administration,2015-16,265622,Arunachal_Pradesh
+Other services,2011-12,142509,Arunachal_Pradesh
+Other services,2012-13,167431,Arunachal_Pradesh
+Other services,2013-14,189928,Arunachal_Pradesh
+Other services,2014-15,218728,Arunachal_Pradesh
+Other services,2015-16,257504,Arunachal_Pradesh
+"Agriculture, forestry and fishing",2011-12,2848113,Assam
+"Agriculture, forestry and fishing",2012-13,3391548,Assam
+"Agriculture, forestry and fishing",2013-14,3692959,Assam
+"Agriculture, forestry and fishing",2014-15,3855548,Assam
+"Agriculture, forestry and fishing",2015-16,4343564,Assam
+Crops,2011-12,2061487,Assam
+Crops,2012-13,2496905,Assam
+Crops,2013-14,2720261,Assam
+Crops,2014-15,2890544,Assam
+Crops,2015-16,3310990,Assam
+Livestock,2011-12,159289,Assam
+Livestock,2012-13,179160,Assam
+Livestock,2013-14,155267,Assam
+Livestock,2014-15,173478,Assam
+Livestock,2015-16,175526,Assam
+Forestry and logging,2011-12,231388,Assam
+Forestry and logging,2012-13,246368,Assam
+Forestry and logging,2013-14,311458,Assam
+Forestry and logging,2014-15,261987,Assam
+Forestry and logging,2015-16,278521,Assam
+Fishing and aquaculture,2011-12,395949,Assam
+Fishing and aquaculture,2012-13,469115,Assam
+Fishing and aquaculture,2013-14,505973,Assam
+Fishing and aquaculture,2014-15,529539,Assam
+Fishing and aquaculture,2015-16,578527,Assam
+Mining and quarrying,2011-12,1464989,Assam
+Mining and quarrying,2012-13,1448306,Assam
+Mining and quarrying,2013-14,1423477,Assam
+Mining and quarrying,2014-15,1471149,Assam
+Mining and quarrying,2015-16,1493456,Assam
+Manufacturing,2011-12,1540255,Assam
+Manufacturing,2012-13,1531538,Assam
+Manufacturing,2013-14,1904299,Assam
+Manufacturing,2014-15,2002936,Assam
+Manufacturing,2015-16,2055341,Assam
+"Electricity, gas, water supply & other utility services",2011-12,191883,Assam
+"Electricity, gas, water supply & other utility services",2012-13,210901,Assam
+"Electricity, gas, water supply & other utility services",2013-14,257083,Assam
+"Electricity, gas, water supply & other utility services",2014-15,296587,Assam
+"Electricity, gas, water supply & other utility services",2015-16,372236,Assam
+Construction,2011-12,1188747,Assam
+Construction,2012-13,1270304,Assam
+Construction,2013-14,1537481,Assam
+Construction,2014-15,1733568,Assam
+Construction,2015-16,2093594,Assam
+"Trade, repair, hotels and restaurants",2011-12,2045676,Assam
+"Trade, repair, hotels and restaurants",2012-13,2284041,Assam
+"Trade, repair, hotels and restaurants",2013-14,2573962,Assam
+"Trade, repair, hotels and restaurants",2014-15,2987155,Assam
+"Trade, repair, hotels and restaurants",2015-16,3480621,Assam
+Trade & repair services,2011-12,1961211,Assam
+Trade & repair services,2012-13,2191727,Assam
+Trade & repair services,2013-14,2473790,Assam
+Trade & repair services,2014-15,2876251,Assam
+Trade & repair services,2015-16,3353852,Assam
+Hotels & restaurants,2011-12,84465,Assam
+Hotels & restaurants,2012-13,92314,Assam
+Hotels & restaurants,2013-14,100172,Assam
+Hotels & restaurants,2014-15,110904,Assam
+Hotels & restaurants,2015-16,126769,Assam
+"Transport, storage, communication & services related to broadcasting",2011-12,810091,Assam
+"Transport, storage, communication & services related to broadcasting",2012-13,929196,Assam
+"Transport, storage, communication & services related to broadcasting",2013-14,1086729,Assam
+"Transport, storage, communication & services related to broadcasting",2014-15,1194568,Assam
+"Transport, storage, communication & services related to broadcasting",2015-16,1392834,Assam
+Railways,2011-12,158334,Assam
+Railways,2012-13,186316,Assam
+Railways,2013-14,215234,Assam
+Railways,2014-15,252509,Assam
+Railways,2015-16,294682,Assam
+Road transport,2011-12,356262,Assam
+Road transport,2012-13,422930,Assam
+Road transport,2013-14,474743,Assam
+Road transport,2014-15,507668,Assam
+Road transport,2015-16,579295,Assam
+Water transport,2011-12,43626,Assam
+Water transport,2012-13,47129,Assam
+Water transport,2013-14,25033,Assam
+Water transport,2014-15,4502,Assam
+Water transport,2015-16,5023,Assam
+Air transport,2011-12,0,Assam
+Air transport,2012-13,255,Assam
+Air transport,2013-14,9711,Assam
+Air transport,2014-15,26223,Assam
+Air transport,2015-16,29260,Assam
+Services incidental to transport,2011-12,36400,Assam
+Services incidental to transport,2012-13,39855,Assam
+Services incidental to transport,2013-14,36798,Assam
+Services incidental to transport,2014-15,35739,Assam
+Services incidental to transport,2015-16,37732,Assam
+Storage,2011-12,6594,Assam
+Storage,2012-13,7277,Assam
+Storage,2013-14,8377,Assam
+Storage,2014-15,10308,Assam
+Storage,2015-16,12070,Assam
+Communication & services related to broadcasting,2011-12,208875,Assam
+Communication & services related to broadcasting,2012-13,225434,Assam
+Communication & services related to broadcasting,2013-14,316833,Assam
+Communication & services related to broadcasting,2014-15,357619,Assam
+Communication & services related to broadcasting,2015-16,434772,Assam
+Financial services,2011-12,427077,Assam
+Financial services,2012-13,457213,Assam
+Financial services,2013-14,515905,Assam
+Financial services,2014-15,543651,Assam
+Financial services,2015-16,591575,Assam
+"Real estate, ownership of dwelling & professional services",2011-12,1112543,Assam
+"Real estate, ownership of dwelling & professional services",2012-13,1225917,Assam
+"Real estate, ownership of dwelling & professional services",2013-14,1316472,Assam
+"Real estate, ownership of dwelling & professional services",2014-15,1412466,Assam
+"Real estate, ownership of dwelling & professional services",2015-16,1534435,Assam
+Public administration,2011-12,821723,Assam
+Public administration,2012-13,929477,Assam
+Public administration,2013-14,982734,Assam
+Public administration,2014-15,1373611,Assam
+Public administration,2015-16,1556575,Assam
+Other services,2011-12,1077923,Assam
+Other services,2012-13,1182533,Assam
+Other services,2013-14,1493924,Assam
+Other services,2014-15,1795658,Assam
+Other services,2015-16,2209442,Assam
+"Agriculture, forestry and fishing",2011-12,6206655,Bihar
+"Agriculture, forestry and fishing",2012-13,7669989,Bihar
+"Agriculture, forestry and fishing",2013-14,7371939,Bihar
+"Agriculture, forestry and fishing",2014-15,7951890,Bihar
+"Agriculture, forestry and fishing",2015-16,8095024,Bihar
+Crops,2011-12,4260778,Bihar
+Crops,2012-13,5336544,Bihar
+Crops,2013-14,4522339,Bihar
+Crops,2014-15,4688237,Bihar
+Crops,2015-16,4577220,Bihar
+Livestock,2011-12,1202821,Bihar
+Livestock,2012-13,1481102,Bihar
+Livestock,2013-14,1831596,Bihar
+Livestock,2014-15,2060296,Bihar
+Livestock,2015-16,2247038,Bihar
+Forestry and logging,2011-12,418682,Bihar
+Forestry and logging,2012-13,457077,Bihar
+Forestry and logging,2013-14,500976,Bihar
+Forestry and logging,2014-15,550132,Bihar
+Forestry and logging,2015-16,591042,Bihar
+Fishing and aquaculture,2011-12,324374,Bihar
+Fishing and aquaculture,2012-13,395266,Bihar
+Fishing and aquaculture,2013-14,517028,Bihar
+Fishing and aquaculture,2014-15,653224,Bihar
+Fishing and aquaculture,2015-16,679725,Bihar
+Mining and quarrying,2011-12,19858,Bihar
+Mining and quarrying,2012-13,23429,Bihar
+Mining and quarrying,2013-14,150804,Bihar
+Mining and quarrying,2014-15,68107,Bihar
+Mining and quarrying,2015-16,68549,Bihar
+Manufacturing,2011-12,1466570,Bihar
+Manufacturing,2012-13,1035092,Bihar
+Manufacturing,2013-14,2120942,Bihar
+Manufacturing,2014-15,2189965,Bihar
+Manufacturing,2015-16,2892956,Bihar
+"Electricity, gas, water supply & other utility services",2011-12,365887,Bihar
+"Electricity, gas, water supply & other utility services",2012-13,442206,Bihar
+"Electricity, gas, water supply & other utility services",2013-14,385931,Bihar
+"Electricity, gas, water supply & other utility services",2014-15,345168,Bihar
+"Electricity, gas, water supply & other utility services",2015-16,363130,Bihar
+Construction,2011-12,2701685,Bihar
+Construction,2012-13,2781005,Bihar
+Construction,2013-14,3184760,Bihar
+Construction,2014-15,3449763,Bihar
+Construction,2015-16,3667664,Bihar
+"Trade, repair, hotels and restaurants",2011-12,4390442,Bihar
+"Trade, repair, hotels and restaurants",2012-13,5175534,Bihar
+"Trade, repair, hotels and restaurants",2013-14,5205102,Bihar
+"Trade, repair, hotels and restaurants",2014-15,7448373,Bihar
+"Trade, repair, hotels and restaurants",2015-16,8789191,Bihar
+Trade & repair services,2011-12,4110861,Bihar
+Trade & repair services,2012-13,4867227,Bihar
+Trade & repair services,2013-14,4873547,Bihar
+Trade & repair services,2014-15,7081391,Bihar
+Trade & repair services,2015-16,8383018,Bihar
+Hotels & restaurants,2011-12,279581,Bihar
+Hotels & restaurants,2012-13,308307,Bihar
+Hotels & restaurants,2013-14,331555,Bihar
+Hotels & restaurants,2014-15,366982,Bihar
+Hotels & restaurants,2015-16,406173,Bihar
+"Transport, storage, communication & services related to broadcasting",2011-12,1754480,Bihar
+"Transport, storage, communication & services related to broadcasting",2012-13,2161629,Bihar
+"Transport, storage, communication & services related to broadcasting",2013-14,2684993,Bihar
+"Transport, storage, communication & services related to broadcasting",2014-15,3147173,Bihar
+"Transport, storage, communication & services related to broadcasting",2015-16,3658194,Bihar
+Railways,2011-12,275142,Bihar
+Railways,2012-13,334829,Bihar
+Railways,2013-14,395681,Bihar
+Railways,2014-15,462413,Bihar
+Railways,2015-16,540400,Bihar
+Road transport,2011-12,840472,Bihar
+Road transport,2012-13,1069740,Bihar
+Road transport,2013-14,1347912,Bihar
+Road transport,2014-15,1572288,Bihar
+Road transport,2015-16,1833696,Bihar
+Water transport,2011-12,4895,Bihar
+Water transport,2012-13,2559,Bihar
+Water transport,2013-14,1728,Bihar
+Water transport,2014-15,2228,Bihar
+Water transport,2015-16,2228,Bihar
+Air transport,2011-12,3079,Bihar
+Air transport,2012-13,5848,Bihar
+Air transport,2013-14,4557,Bihar
+Air transport,2014-15,13599,Bihar
+Air transport,2015-16,13599,Bihar
+Services incidental to transport,2011-12,89270,Bihar
+Services incidental to transport,2012-13,112022,Bihar
+Services incidental to transport,2013-14,142482,Bihar
+Services incidental to transport,2014-15,166600,Bihar
+Services incidental to transport,2015-16,194712,Bihar
+Storage,2011-12,7400,Bihar
+Storage,2012-13,8434,Bihar
+Storage,2013-14,8457,Bihar
+Storage,2014-15,10618,Bihar
+Storage,2015-16,10618,Bihar
+Communication & services related to broadcasting,2011-12,534222,Bihar
+Communication & services related to broadcasting,2012-13,628197,Bihar
+Communication & services related to broadcasting,2013-14,784175,Bihar
+Communication & services related to broadcasting,2014-15,919427,Bihar
+Communication & services related to broadcasting,2015-16,1062941,Bihar
+Financial services,2011-12,883932,Bihar
+Financial services,2012-13,977417,Bihar
+Financial services,2013-14,1122273,Bihar
+Financial services,2014-15,1178022,Bihar
+Financial services,2015-16,1236540,Bihar
+"Real estate, ownership of dwelling & professional services",2011-12,2802336,Bihar
+"Real estate, ownership of dwelling & professional services",2012-13,3121656,Bihar
+"Real estate, ownership of dwelling & professional services",2013-14,3460385,Bihar
+"Real estate, ownership of dwelling & professional services",2014-15,3740641,Bihar
+"Real estate, ownership of dwelling & professional services",2015-16,4081952,Bihar
+Public administration,2011-12,1358743,Bihar
+Public administration,2012-13,1477676,Bihar
+Public administration,2013-14,1576835,Bihar
+Public administration,2014-15,2078171,Bihar
+Public administration,2015-16,2129474,Bihar
+Other services,2011-12,2219262,Bihar
+Other services,2012-13,2804281,Bihar
+Other services,2013-14,3404578,Bihar
+Other services,2014-15,4587589,Bihar
+Other services,2015-16,4845291,Bihar
+"Agriculture, forestry and fishing",2011-12,2685950,Chhattisgarh
+"Agriculture, forestry and fishing",2012-13,3180908,Chhattisgarh
+"Agriculture, forestry and fishing",2013-14,3589934,Chhattisgarh
+"Agriculture, forestry and fishing",2014-15,3948847,Chhattisgarh
+"Agriculture, forestry and fishing",2015-16,4341869,Chhattisgarh
+"Agriculture, forestry and fishing",2016-17,4852218,Chhattisgarh
+Crops,2011-12,1798258,Chhattisgarh
+Crops,2012-13,2140927,Chhattisgarh
+Crops,2013-14,2395705,Chhattisgarh
+Crops,2014-15,2613371,Chhattisgarh
+Crops,2015-16,2829924,Chhattisgarh
+Crops,2016-17,3132527,Chhattisgarh
+Livestock,2011-12,226704,Chhattisgarh
+Livestock,2012-13,255035,Chhattisgarh
+Livestock,2013-14,310931,Chhattisgarh
+Livestock,2014-15,352208,Chhattisgarh
+Livestock,2015-16,412501,Chhattisgarh
+Livestock,2016-17,467223,Chhattisgarh
+Forestry and logging,2011-12,426205,Chhattisgarh
+Forestry and logging,2012-13,503309,Chhattisgarh
+Forestry and logging,2013-14,559637,Chhattisgarh
+Forestry and logging,2014-15,597785,Chhattisgarh
+Forestry and logging,2015-16,672022,Chhattisgarh
+Forestry and logging,2016-17,778945,Chhattisgarh
+Fishing and aquaculture,2011-12,234783,Chhattisgarh
+Fishing and aquaculture,2012-13,281637,Chhattisgarh
+Fishing and aquaculture,2013-14,323661,Chhattisgarh
+Fishing and aquaculture,2014-15,385483,Chhattisgarh
+Fishing and aquaculture,2015-16,427422,Chhattisgarh
+Fishing and aquaculture,2016-17,473523,Chhattisgarh
+Mining and quarrying,2011-12,1970258,Chhattisgarh
+Mining and quarrying,2012-13,1923021,Chhattisgarh
+Mining and quarrying,2013-14,2144358,Chhattisgarh
+Mining and quarrying,2014-15,2451970,Chhattisgarh
+Mining and quarrying,2015-16,2365874,Chhattisgarh
+Mining and quarrying,2016-17,2482291,Chhattisgarh
+Manufacturing,2011-12,2435032,Chhattisgarh
+Manufacturing,2012-13,2817915,Chhattisgarh
+Manufacturing,2013-14,3810105,Chhattisgarh
+Manufacturing,2014-15,4370593,Chhattisgarh
+Manufacturing,2015-16,4925000,Chhattisgarh
+Manufacturing,2016-17,5403213,Chhattisgarh
+"Electricity, gas, water supply & other utility services",2011-12,709991,Chhattisgarh
+"Electricity, gas, water supply & other utility services",2012-13,970686,Chhattisgarh
+"Electricity, gas, water supply & other utility services",2013-14,1051772,Chhattisgarh
+"Electricity, gas, water supply & other utility services",2014-15,1198438,Chhattisgarh
+"Electricity, gas, water supply & other utility services",2015-16,1351026,Chhattisgarh
+"Electricity, gas, water supply & other utility services",2016-17,1461841,Chhattisgarh
+Construction,2011-12,1901330,Chhattisgarh
+Construction,2012-13,1920771,Chhattisgarh
+Construction,2013-14,2260022,Chhattisgarh
+Construction,2014-15,2669855,Chhattisgarh
+Construction,2015-16,3016954,Chhattisgarh
+Construction,2016-17,3391547,Chhattisgarh
+"Trade, repair, hotels and restaurants",2011-12,932617,Chhattisgarh
+"Trade, repair, hotels and restaurants",2012-13,1101271,Chhattisgarh
+"Trade, repair, hotels and restaurants",2013-14,1288982,Chhattisgarh
+"Trade, repair, hotels and restaurants",2014-15,1535571,Chhattisgarh
+"Trade, repair, hotels and restaurants",2015-16,1782734,Chhattisgarh
+"Trade, repair, hotels and restaurants",2016-17,1979656,Chhattisgarh
+Trade & repair services,2011-12,847597,Chhattisgarh
+Trade & repair services,2012-13,1011450,Chhattisgarh
+Trade & repair services,2013-14,1178419,Chhattisgarh
+Trade & repair services,2014-15,1414164,Chhattisgarh
+Trade & repair services,2015-16,1666029,Chhattisgarh
+Trade & repair services,2016-17,1838297,Chhattisgarh
+Hotels & restaurants,2011-12,85020,Chhattisgarh
+Hotels & restaurants,2012-13,89821,Chhattisgarh
+Hotels & restaurants,2013-14,110563,Chhattisgarh
+Hotels & restaurants,2014-15,121407,Chhattisgarh
+Hotels & restaurants,2015-16,116706,Chhattisgarh
+Hotels & restaurants,2016-17,141359,Chhattisgarh
+"Transport, storage, communication & services related to broadcasting",2011-12,583708,Chhattisgarh
+"Transport, storage, communication & services related to broadcasting",2012-13,683320,Chhattisgarh
+"Transport, storage, communication & services related to broadcasting",2013-14,783315,Chhattisgarh
+"Transport, storage, communication & services related to broadcasting",2014-15,871770,Chhattisgarh
+"Transport, storage, communication & services related to broadcasting",2015-16,1003151,Chhattisgarh
+"Transport, storage, communication & services related to broadcasting",2016-17,1165466,Chhattisgarh
+Railways,2011-12,121509,Chhattisgarh
+Railways,2012-13,140418,Chhattisgarh
+Railways,2013-14,150098,Chhattisgarh
+Railways,2014-15,159176,Chhattisgarh
+Railways,2015-16,173471,Chhattisgarh
+Railways,2016-17,186151,Chhattisgarh
+Road transport,2011-12,275736,Chhattisgarh
+Road transport,2012-13,320533,Chhattisgarh
+Road transport,2013-14,357128,Chhattisgarh
+Road transport,2014-15,386628,Chhattisgarh
+Road transport,2015-16,443855,Chhattisgarh
+Road transport,2016-17,516676,Chhattisgarh
+Water transport,2011-12,0,Chhattisgarh
+Water transport,2012-13,0,Chhattisgarh
+Water transport,2013-14,0,Chhattisgarh
+Water transport,2014-15,0,Chhattisgarh
+Water transport,2015-16,0,Chhattisgarh
+Water transport,2016-17,0,Chhattisgarh
+Air transport,2011-12,2217,Chhattisgarh
+Air transport,2012-13,4215,Chhattisgarh
+Air transport,2013-14,3337,Chhattisgarh
+Air transport,2014-15,9507,Chhattisgarh
+Air transport,2015-16,9842,Chhattisgarh
+Air transport,2016-17,11038,Chhattisgarh
+Services incidental to transport,2011-12,3756,Chhattisgarh
+Services incidental to transport,2012-13,4347,Chhattisgarh
+Services incidental to transport,2013-14,4818,Chhattisgarh
+Services incidental to transport,2014-15,5232,Chhattisgarh
+Services incidental to transport,2015-16,5680,Chhattisgarh
+Services incidental to transport,2016-17,6084,Chhattisgarh
+Storage,2011-12,10189,Chhattisgarh
+Storage,2012-13,11689,Chhattisgarh
+Storage,2013-14,14026,Chhattisgarh
+Storage,2014-15,16675,Chhattisgarh
+Storage,2015-16,19415,Chhattisgarh
+Storage,2016-17,22675,Chhattisgarh
+Communication & services related to broadcasting,2011-12,170301,Chhattisgarh
+Communication & services related to broadcasting,2012-13,202117,Chhattisgarh
+Communication & services related to broadcasting,2013-14,253906,Chhattisgarh
+Communication & services related to broadcasting,2014-15,294552,Chhattisgarh
+Communication & services related to broadcasting,2015-16,350888,Chhattisgarh
+Communication & services related to broadcasting,2016-17,422842,Chhattisgarh
+Financial services,2011-12,537699,Chhattisgarh
+Financial services,2012-13,609344,Chhattisgarh
+Financial services,2013-14,676094,Chhattisgarh
+Financial services,2014-15,739057,Chhattisgarh
+Financial services,2015-16,813950,Chhattisgarh
+Financial services,2016-17,903006,Chhattisgarh
+"Real estate, ownership of dwelling & professional services",2011-12,1755211,Chhattisgarh
+"Real estate, ownership of dwelling & professional services",2012-13,1919629,Chhattisgarh
+"Real estate, ownership of dwelling & professional services",2013-14,2227586,Chhattisgarh
+"Real estate, ownership of dwelling & professional services",2014-15,2462166,Chhattisgarh
+"Real estate, ownership of dwelling & professional services",2015-16,2749303,Chhattisgarh
+"Real estate, ownership of dwelling & professional services",2016-17,3034840,Chhattisgarh
+Public administration,2011-12,549383,Chhattisgarh
+Public administration,2012-13,611344,Chhattisgarh
+Public administration,2013-14,781483,Chhattisgarh
+Public administration,2014-15,867982,Chhattisgarh
+Public administration,2015-16,1028511,Chhattisgarh
+Public administration,2016-17,1274761,Chhattisgarh
+Other services,2011-12,781803,Chhattisgarh
+Other services,2012-13,875123,Chhattisgarh
+Other services,2013-14,914758,Chhattisgarh
+Other services,2014-15,1112232,Chhattisgarh
+Other services,2015-16,1320891,Chhattisgarh
+Other services,2016-17,1616648,Chhattisgarh
+"Agriculture, forestry and fishing",2011-12,204298,Goa
+"Agriculture, forestry and fishing",2012-13,228626,Goa
+"Agriculture, forestry and fishing",2013-14,311711,Goa
+"Agriculture, forestry and fishing",2014-15,308507,Goa
+"Agriculture, forestry and fishing",2015-16,366186,Goa
+Crops,2011-12,102417,Goa
+Crops,2012-13,108207,Goa
+Crops,2013-14,126747,Goa
+Crops,2014-15,140421,Goa
+Crops,2015-16,159400,Goa
+Livestock,2011-12,23530,Goa
+Livestock,2012-13,26599,Goa
+Livestock,2013-14,31237,Goa
+Livestock,2014-15,30141,Goa
+Livestock,2015-16,43088,Goa
+Forestry and logging,2011-12,11797,Goa
+Forestry and logging,2012-13,12522,Goa
+Forestry and logging,2013-14,13051,Goa
+Forestry and logging,2014-15,15744,Goa
+Forestry and logging,2015-16,19880,Goa
+Fishing and aquaculture,2011-12,66554,Goa
+Fishing and aquaculture,2012-13,81298,Goa
+Fishing and aquaculture,2013-14,140676,Goa
+Fishing and aquaculture,2014-15,122201,Goa
+Fishing and aquaculture,2015-16,143819,Goa
+Mining and quarrying,2011-12,643618,Goa
+Mining and quarrying,2012-13,208663,Goa
+Mining and quarrying,2013-14,3977,Goa
+Mining and quarrying,2014-15,3622,Goa
+Mining and quarrying,2015-16,3678,Goa
+Manufacturing,2011-12,1629346,Goa
+Manufacturing,2012-13,1453493,Goa
+Manufacturing,2013-14,1091757,Goa
+Manufacturing,2014-15,1177608,Goa
+Manufacturing,2015-16,1285215,Goa
+"Electricity, gas, water supply & other utility services",2011-12,95883,Goa
+"Electricity, gas, water supply & other utility services",2012-13,116876,Goa
+"Electricity, gas, water supply & other utility services",2013-14,157732,Goa
+"Electricity, gas, water supply & other utility services",2014-15,204110,Goa
+"Electricity, gas, water supply & other utility services",2015-16,274414,Goa
+Construction,2011-12,135801,Goa
+Construction,2012-13,140399,Goa
+Construction,2013-14,161627,Goa
+Construction,2014-15,165819,Goa
+Construction,2015-16,175281,Goa
+"Trade, repair, hotels and restaurants",2011-12,259615,Goa
+"Trade, repair, hotels and restaurants",2012-13,259610,Goa
+"Trade, repair, hotels and restaurants",2013-14,284357,Goa
+"Trade, repair, hotels and restaurants",2014-15,380927,Goa
+"Trade, repair, hotels and restaurants",2015-16,470977,Goa
+Trade & repair services,2011-12,231790,Goa
+Trade & repair services,2012-13,229719,Goa
+Trade & repair services,2013-14,251701,Goa
+Trade & repair services,2014-15,343492,Goa
+Trade & repair services,2015-16,427674,Goa
+Hotels & restaurants,2011-12,27825,Goa
+Hotels & restaurants,2012-13,29891,Goa
+Hotels & restaurants,2013-14,32656,Goa
+Hotels & restaurants,2014-15,37434,Goa
+Hotels & restaurants,2015-16,43303,Goa
+"Transport, storage, communication & services related to broadcasting",2011-12,155964,Goa
+"Transport, storage, communication & services related to broadcasting",2012-13,141372,Goa
+"Transport, storage, communication & services related to broadcasting",2013-14,135168,Goa
+"Transport, storage, communication & services related to broadcasting",2014-15,189656,Goa
+"Transport, storage, communication & services related to broadcasting",2015-16,186023,Goa
+Railways,2011-12,12158,Goa
+Railways,2012-13,13498,Goa
+Railways,2013-14,13559,Goa
+Railways,2014-15,15649,Goa
+Railways,2015-16,18061,Goa
+Road transport,2011-12,34683,Goa
+Road transport,2012-13,38841,Goa
+Road transport,2013-14,42533,Goa
+Road transport,2014-15,46171,Goa
+Road transport,2015-16,48971,Goa
+Water transport,2011-12,42442,Goa
+Water transport,2012-13,22267,Goa
+Water transport,2013-14,12790,Goa
+Water transport,2014-15,17820,Goa
+Water transport,2015-16,20561,Goa
+Air transport,2011-12,9731,Goa
+Air transport,2012-13,18426,Goa
+Air transport,2013-14,15901,Goa
+Air transport,2014-15,46359,Goa
+Air transport,2015-16,15904,Goa
+Services incidental to transport,2011-12,29654,Goa
+Services incidental to transport,2012-13,18371,Goa
+Services incidental to transport,2013-14,12158,Goa
+Services incidental to transport,2014-15,19272,Goa
+Services incidental to transport,2015-16,30779,Goa
+Storage,2011-12,192,Goa
+Storage,2012-13,253,Goa
+Storage,2013-14,306,Goa
+Storage,2014-15,357,Goa
+Storage,2015-16,416,Goa
+Communication & services related to broadcasting,2011-12,27105,Goa
+Communication & services related to broadcasting,2012-13,29716,Goa
+Communication & services related to broadcasting,2013-14,37921,Goa
+Communication & services related to broadcasting,2014-15,44028,Goa
+Communication & services related to broadcasting,2015-16,51330,Goa
+Financial services,2011-12,172930,Goa
+Financial services,2012-13,205807,Goa
+Financial services,2013-14,219431,Goa
+Financial services,2014-15,233618,Goa
+Financial services,2015-16,248722,Goa
+"Real estate, ownership of dwelling & professional services",2011-12,268681,Goa
+"Real estate, ownership of dwelling & professional services",2012-13,311294,Goa
+"Real estate, ownership of dwelling & professional services",2013-14,353295,Goa
+"Real estate, ownership of dwelling & professional services",2014-15,407099,Goa
+"Real estate, ownership of dwelling & professional services",2015-16,471567,Goa
+Public administration,2011-12,250476,Goa
+Public administration,2012-13,279612,Goa
+Public administration,2013-14,319424,Goa
+Public administration,2014-15,346486,Goa
+Public administration,2015-16,376530,Goa
+Other services,2011-12,123955,Goa
+Other services,2012-13,141551,Goa
+Other services,2013-14,163883,Goa
+Other services,2014-15,180431,Goa
+Other services,2015-16,200606,Goa
+"Agriculture, forestry and fishing",2011-12,10736422,Gujarat
+"Agriculture, forestry and fishing",2012-13,9917095,Gujarat
+"Agriculture, forestry and fishing",2013-14,13040117,Gujarat
+"Agriculture, forestry and fishing",2014-15,13769969,Gujarat
+"Agriculture, forestry and fishing",2015-16,14233763,Gujarat
+Crops,2011-12,7950972,Gujarat
+Crops,2012-13,6767738,Gujarat
+Crops,2013-14,9556409,Gujarat
+Crops,2014-15,9671086,Gujarat
+Crops,2015-16,9516349,Gujarat
+Livestock,2011-12,1850549,Gujarat
+Livestock,2012-13,2011439,Gujarat
+Livestock,2013-14,2316038,Gujarat
+Livestock,2014-15,2698910,Gujarat
+Livestock,2015-16,3164273,Gujarat
+Forestry and logging,2011-12,611318,Gujarat
+Forestry and logging,2012-13,770303,Gujarat
+Forestry and logging,2013-14,715171,Gujarat
+Forestry and logging,2014-15,761616,Gujarat
+Forestry and logging,2015-16,858369,Gujarat
+Fishing and aquaculture,2011-12,323584,Gujarat
+Fishing and aquaculture,2012-13,367616,Gujarat
+Fishing and aquaculture,2013-14,452499,Gujarat
+Fishing and aquaculture,2014-15,638357,Gujarat
+Fishing and aquaculture,2015-16,694772,Gujarat
+Mining and quarrying,2011-12,1850611,Gujarat
+Mining and quarrying,2012-13,2315728,Gujarat
+Mining and quarrying,2013-14,2026283,Gujarat
+Mining and quarrying,2014-15,2117218,Gujarat
+Mining and quarrying,2015-16,2276009,Gujarat
+Manufacturing,2011-12,15681931,Gujarat
+Manufacturing,2012-13,20692579,Gujarat
+Manufacturing,2013-14,21997752,Gujarat
+Manufacturing,2014-15,24087538,Gujarat
+Manufacturing,2015-16,26640817,Gujarat
+"Electricity, gas, water supply & other utility services",2011-12,2190546,Gujarat
+"Electricity, gas, water supply & other utility services",2012-13,2679262,Gujarat
+"Electricity, gas, water supply & other utility services",2013-14,2890694,Gujarat
+"Electricity, gas, water supply & other utility services",2014-15,3409983,Gujarat
+"Electricity, gas, water supply & other utility services",2015-16,3812361,Gujarat
+Construction,2011-12,4469267,Gujarat
+Construction,2012-13,4702959,Gujarat
+Construction,2013-14,5352370,Gujarat
+Construction,2014-15,5526017,Gujarat
+Construction,2015-16,5968098,Gujarat
+"Trade, repair, hotels and restaurants",2011-12,6646396,Gujarat
+"Trade, repair, hotels and restaurants",2012-13,8457461,Gujarat
+"Trade, repair, hotels and restaurants",2013-14,8991796,Gujarat
+"Trade, repair, hotels and restaurants",2014-15,10178713,Gujarat
+"Trade, repair, hotels and restaurants",2015-16,10697827,Gujarat
+Trade & repair services,2011-12,6646396,Gujarat
+Trade & repair services,2012-13,8457461,Gujarat
+Trade & repair services,2013-14,8991796,Gujarat
+Trade & repair services,2014-15,10178713,Gujarat
+Trade & repair services,2015-16,10697827,Gujarat
+Hotels & restaurants,2011-12,NA,Gujarat
+Hotels & restaurants,2012-13,NA,Gujarat
+Hotels & restaurants,2013-14,NA,Gujarat
+Hotels & restaurants,2014-15,NA,Gujarat
+Hotels & restaurants,2015-16,NA,Gujarat
+"Transport, storage, communication & services related to broadcasting",2011-12,3253230,Gujarat
+"Transport, storage, communication & services related to broadcasting",2012-13,3715274,Gujarat
+"Transport, storage, communication & services related to broadcasting",2013-14,4015345,Gujarat
+"Transport, storage, communication & services related to broadcasting",2014-15,4555910,Gujarat
+"Transport, storage, communication & services related to broadcasting",2015-16,5105238,Gujarat
+Railways,2011-12,328792,Gujarat
+Railways,2012-13,363157,Gujarat
+Railways,2013-14,384751,Gujarat
+Railways,2014-15,511593,Gujarat
+Railways,2015-16,596006,Gujarat
+Road transport,2011-12,NA,Gujarat
+Road transport,2012-13,NA,Gujarat
+Road transport,2013-14,NA,Gujarat
+Road transport,2014-15,NA,Gujarat
+Road transport,2015-16,NA,Gujarat
+Water transport,2011-12,NA,Gujarat
+Water transport,2012-13,NA,Gujarat
+Water transport,2013-14,NA,Gujarat
+Water transport,2014-15,NA,Gujarat
+Water transport,2015-16,NA,Gujarat
+Air transport,2011-12,NA,Gujarat
+Air transport,2012-13,NA,Gujarat
+Air transport,2013-14,NA,Gujarat
+Air transport,2014-15,NA,Gujarat
+Air transport,2015-16,NA,Gujarat
+Services incidental to transport*,2011-12,2126306,Gujarat
+Services incidental to transport*,2012-13,2434819,Gujarat
+Services incidental to transport*,2013-14,2485294,Gujarat
+Services incidental to transport*,2014-15,2744163,Gujarat
+Services incidental to transport*,2015-16,3051509,Gujarat
+Storage,2011-12,36202,Gujarat
+Storage,2012-13,40557,Gujarat
+Storage,2013-14,46042,Gujarat
+Storage,2014-15,57634,Gujarat
+Storage,2015-16,66101,Gujarat
+Communication & services related to broadcasting,2011-12,761929,Gujarat
+Communication & services related to broadcasting,2012-13,876741,Gujarat
+Communication & services related to broadcasting,2013-14,1099258,Gujarat
+Communication & services related to broadcasting,2014-15,1242520,Gujarat
+Communication & services related to broadcasting,2015-16,1391622,Gujarat
+Financial services,2011-12,2942743,Gujarat
+Financial services,2012-13,3461652,Gujarat
+Financial services,2013-14,4116751,Gujarat
+Financial services,2014-15,4606644,Gujarat
+Financial services,2015-16,5210114,Gujarat
+"Real estate, ownership of dwelling & professional services",2011-12,3481417,Gujarat
+"Real estate, ownership of dwelling & professional services",2012-13,3969395,Gujarat
+"Real estate, ownership of dwelling & professional services",2013-14,4564674,Gujarat
+"Real estate, ownership of dwelling & professional services",2014-15,5179502,Gujarat
+"Real estate, ownership of dwelling & professional services",2015-16,5916201,Gujarat
+Public administration,2011-12,1917276,Gujarat
+Public administration,2012-13,2184966,Gujarat
+Public administration,2013-14,2373071,Gujarat
+Public administration,2014-15,2576195,Gujarat
+Public administration,2015-16,2887915,Gujarat
+Other services,2011-12,2022268,Gujarat
+Other services,2012-13,2419178,Gujarat
+Other services,2013-14,2739442,Gujarat
+Other services,2014-15,3123413,Gujarat
+Other services,2015-16,3628248,Gujarat
+"Agriculture, forestry and fishing",2011-12,6453886,Haryana
+"Agriculture, forestry and fishing",2012-13,7150666,Haryana
+"Agriculture, forestry and fishing",2013-14,7929914,Haryana
+"Agriculture, forestry and fishing",2014-15,8015238,Haryana
+"Agriculture, forestry and fishing",2015-16,8396709,Haryana
+"Agriculture, forestry and fishing",2016-17,9466087,Haryana
+Crops,2011-12,4088737,Haryana
+Crops,2012-13,4457601,Haryana
+Crops,2013-14,4951547,Haryana
+Crops,2014-15,4636731,Haryana
+Crops,2015-16,4727367,Haryana
+Crops,2016-17,5469577,Haryana
+Livestock,2011-12,1889817,Haryana
+Livestock,2012-13,2160183,Haryana
+Livestock,2013-14,2483010,Haryana
+Livestock,2014-15,2916173,Haryana
+Livestock,2015-16,3225085,Haryana
+Livestock,2016-17,3524563,Haryana
+Forestry and logging,2011-12,389490,Haryana
+Forestry and logging,2012-13,432560,Haryana
+Forestry and logging,2013-14,400345,Haryana
+Forestry and logging,2014-15,352254,Haryana
+Forestry and logging,2015-16,356483,Haryana
+Forestry and logging,2016-17,347491,Haryana
+Fishing and aquaculture,2011-12,85843,Haryana
+Fishing and aquaculture,2012-13,100322,Haryana
+Fishing and aquaculture,2013-14,95012,Haryana
+Fishing and aquaculture,2014-15,110080,Haryana
+Fishing and aquaculture,2015-16,87774,Haryana
+Fishing and aquaculture,2016-17,124457,Haryana
+Mining and quarrying,2011-12,11882,Haryana
+Mining and quarrying,2012-13,10013,Haryana
+Mining and quarrying,2013-14,30643,Haryana
+Mining and quarrying,2014-15,25186,Haryana
+Mining and quarrying,2015-16,47743,Haryana
+Mining and quarrying,2016-17,95975,Haryana
+Manufacturing,2011-12,5328609,Haryana
+Manufacturing,2012-13,6663757,Haryana
+Manufacturing,2013-14,7386437,Haryana
+Manufacturing,2014-15,7756921,Haryana
+Manufacturing,2015-16,8487531,Haryana
+Manufacturing,2016-17,9098633,Haryana
+"Electricity, gas, water supply & other utility services",2011-12,344604,Haryana
+"Electricity, gas, water supply & other utility services",2012-13,647542,Haryana
+"Electricity, gas, water supply & other utility services",2013-14,990052,Haryana
+"Electricity, gas, water supply & other utility services",2014-15,1101919,Haryana
+"Electricity, gas, water supply & other utility services",2015-16,1436434,Haryana
+"Electricity, gas, water supply & other utility services",2016-17,1771999,Haryana
+Construction,2011-12,2975966,Haryana
+Construction,2012-13,3042391,Haryana
+Construction,2013-14,3571936,Haryana
+Construction,2014-15,3702571,Haryana
+Construction,2015-16,3930821,Haryana
+Construction,2016-17,4232315,Haryana
+"Trade, repair, hotels and restaurants",2011-12,3310742,Haryana
+"Trade, repair, hotels and restaurants",2012-13,3881872,Haryana
+"Trade, repair, hotels and restaurants",2013-14,4337016,Haryana
+"Trade, repair, hotels and restaurants",2014-15,4986319,Haryana
+"Trade, repair, hotels and restaurants",2015-16,5500429,Haryana
+"Trade, repair, hotels and restaurants",2016-17,6173305,Haryana
+Trade & repair services,2011-12,3191526,Haryana
+Trade & repair services,2012-13,3750911,Haryana
+Trade & repair services,2013-14,4195470,Haryana
+Trade & repair services,2014-15,4817784,Haryana
+Trade & repair services,2015-16,5307508,Haryana
+Trade & repair services,2016-17,5951557,Haryana
+Hotels & restaurants,2011-12,119216,Haryana
+Hotels & restaurants,2012-13,130961,Haryana
+Hotels & restaurants,2013-14,141546,Haryana
+Hotels & restaurants,2014-15,168535,Haryana
+Hotels & restaurants,2015-16,192922,Haryana
+Hotels & restaurants,2016-17,221748,Haryana
+"Transport, storage, communication & services related to broadcasting",2011-12,1727689,Haryana
+"Transport, storage, communication & services related to broadcasting",2012-13,1965560,Haryana
+"Transport, storage, communication & services related to broadcasting",2013-14,2226172,Haryana
+"Transport, storage, communication & services related to broadcasting",2014-15,2560623,Haryana
+"Transport, storage, communication & services related to broadcasting",2015-16,2859546,Haryana
+"Transport, storage, communication & services related to broadcasting",2016-17,3201201,Haryana
+Railways,2011-12,268949,Haryana
+Railways,2012-13,333924,Haryana
+Railways,2013-14,349621,Haryana
+Railways,2014-15,423873,Haryana
+Railways,2015-16,473961,Haryana
+Railways,2016-17,533680,Haryana
+Road transport,2011-12,1004452,Haryana
+Road transport,2012-13,1137035,Haryana
+Road transport,2013-14,1283657,Haryana
+Road transport,2014-15,1452364,Haryana
+Road transport,2015-16,1595178,Haryana
+Road transport,2016-17,1745342,Haryana
+Water transport,2011-12,NA,Haryana
+Water transport,2012-13,NA,Haryana
+Water transport,2013-14,NA,Haryana
+Water transport,2014-15,NA,Haryana
+Water transport,2015-16,NA,Haryana
+Water transport,2016-17,NA,Haryana
+Air transport,2011-12,NA,Haryana
+Air transport,2012-13,NA,Haryana
+Air transport,2013-14,NA,Haryana
+Air transport,2014-15,NA,Haryana
+Air transport,2015-16,NA,Haryana
+Air transport,2016-17,NA,Haryana
+Services incidental to transport,2011-12,139222,Haryana
+Services incidental to transport,2012-13,156962,Haryana
+Services incidental to transport,2013-14,163774,Haryana
+Services incidental to transport,2014-15,190269,Haryana
+Services incidental to transport,2015-16,211159,Haryana
+Services incidental to transport,2016-17,234366,Haryana
+Storage,2011-12,11955,Haryana
+Storage,2012-13,16530,Haryana
+Storage,2013-14,14378,Haryana
+Storage,2014-15,14459,Haryana
+Storage,2015-16,11646,Haryana
+Storage,2016-17,11876,Haryana
+Communication & services related to broadcasting,2011-12,303112,Haryana
+Communication & services related to broadcasting,2012-13,321109,Haryana
+Communication & services related to broadcasting,2013-14,414741,Haryana
+Communication & services related to broadcasting,2014-15,479658,Haryana
+Communication & services related to broadcasting,2015-16,567602,Haryana
+Communication & services related to broadcasting,2016-17,675936,Haryana
+Financial services,2011-12,1165659,Haryana
+Financial services,2012-13,1321389,Haryana
+Financial services,2013-14,1483809,Haryana
+Financial services,2014-15,1671486,Haryana
+Financial services,2015-16,1811965,Haryana
+Financial services,2016-17,2002221,Haryana
+"Real estate, ownership of dwelling & professional services",2011-12,4092800,Haryana
+"Real estate, ownership of dwelling & professional services",2012-13,5007987,Haryana
+"Real estate, ownership of dwelling & professional services",2013-14,6262214,Haryana
+"Real estate, ownership of dwelling & professional services",2014-15,6970183,Haryana
+"Real estate, ownership of dwelling & professional services",2015-16,7855396,Haryana
+"Real estate, ownership of dwelling & professional services",2016-17,8970862,Haryana
+Public administration,2011-12,729814,Haryana
+Public administration,2012-13,822186,Haryana
+Public administration,2013-14,885660,Haryana
+Public administration,2014-15,1036377,Haryana
+Public administration,2015-16,1154920,Haryana
+Public administration,2016-17,1363217,Haryana
+Other services,2011-12,1265812,Haryana
+Other services,2012-13,1476085,Haryana
+Other services,2013-14,1652825,Haryana
+Other services,2014-15,2001581,Haryana
+Other services,2015-16,2328010,Haryana
+Other services,2016-17,2753390,Haryana
+"Agriculture, forestry and fishing",2011-12,1162626,Himachal_Pradesh
+"Agriculture, forestry and fishing",2012-13,1313711,Himachal_Pradesh
+"Agriculture, forestry and fishing",2013-14,1497802,Himachal_Pradesh
+"Agriculture, forestry and fishing",2014-15,1514981,Himachal_Pradesh
+Crops,2011-12,673402,Himachal_Pradesh
+Crops,2012-13,814909,Himachal_Pradesh
+Crops,2013-14,938019,Himachal_Pradesh
+Crops,2014-15,853758,Himachal_Pradesh
+Livestock,2011-12,115315,Himachal_Pradesh
+Livestock,2012-13,109697,Himachal_Pradesh
+Livestock,2013-14,108442,Himachal_Pradesh
+Livestock,2014-15,110304,Himachal_Pradesh
+Forestry and logging,2011-12,368735,Himachal_Pradesh
+Forestry and logging,2012-13,383150,Himachal_Pradesh
+Forestry and logging,2013-14,443092,Himachal_Pradesh
+Forestry and logging,2014-15,540950,Himachal_Pradesh
+Fishing and aquaculture,2011-12,5175,Himachal_Pradesh
+Fishing and aquaculture,2012-13,5956,Himachal_Pradesh
+Fishing and aquaculture,2013-14,8249,Himachal_Pradesh
+Fishing and aquaculture,2014-15,9968,Himachal_Pradesh
+Mining and quarrying,2011-12,28640,Himachal_Pradesh
+Mining and quarrying,2012-13,30544,Himachal_Pradesh
+Mining and quarrying,2013-14,28476,Himachal_Pradesh
+Mining and quarrying,2014-15,33385,Himachal_Pradesh
+Manufacturing,2011-12,1799826,Himachal_Pradesh
+Manufacturing,2012-13,2063113,Himachal_Pradesh
+Manufacturing,2013-14,2355433,Himachal_Pradesh
+Manufacturing,2014-15,2543637,Himachal_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,602408,Himachal_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,619270,Himachal_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,713480,Himachal_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,767268,Himachal_Pradesh
+Construction,2011-12,638216,Himachal_Pradesh
+Construction,2012-13,711075,Himachal_Pradesh
+Construction,2013-14,775084,Himachal_Pradesh
+Construction,2014-15,808256,Himachal_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,456829,Himachal_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,513988,Himachal_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,583016,Himachal_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,615496,Himachal_Pradesh
+Trade & repair services,2011-12,357260,Himachal_Pradesh
+Trade & repair services,2012-13,407784,Himachal_Pradesh
+Trade & repair services,2013-14,473098,Himachal_Pradesh
+Trade & repair services,2014-15,494162,Himachal_Pradesh
+Hotels & restaurants,2011-12,99569,Himachal_Pradesh
+Hotels & restaurants,2012-13,106203,Himachal_Pradesh
+Hotels & restaurants,2013-14,109918,Himachal_Pradesh
+Hotels & restaurants,2014-15,121333,Himachal_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,300837,Himachal_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,351968,Himachal_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,445448,Himachal_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,552234,Himachal_Pradesh
+Railways,2011-12,1720,Himachal_Pradesh
+Railways,2012-13,1919,Himachal_Pradesh
+Railways,2013-14,2309,Himachal_Pradesh
+Railways,2014-15,2528,Himachal_Pradesh
+Road transport,2011-12,169771,Himachal_Pradesh
+Road transport,2012-13,212617,Himachal_Pradesh
+Road transport,2013-14,273314,Himachal_Pradesh
+Road transport,2014-15,349608,Himachal_Pradesh
+Water transport,2011-12,0,Himachal_Pradesh
+Water transport,2012-13,0,Himachal_Pradesh
+Water transport,2013-14,0,Himachal_Pradesh
+Water transport,2014-15,0,Himachal_Pradesh
+Air transport,2011-12,898,Himachal_Pradesh
+Air transport,2012-13,1670,Himachal_Pradesh
+Air transport,2013-14,1452,Himachal_Pradesh
+Air transport,2014-15,3979,Himachal_Pradesh
+Services incidental to transport,2011-12,814,Himachal_Pradesh
+Services incidental to transport,2012-13,1024,Himachal_Pradesh
+Services incidental to transport,2013-14,1334,Himachal_Pradesh
+Services incidental to transport,2014-15,1724,Himachal_Pradesh
+Storage,2011-12,163,Himachal_Pradesh
+Storage,2012-13,181,Himachal_Pradesh
+Storage,2013-14,120,Himachal_Pradesh
+Storage,2014-15,129,Himachal_Pradesh
+Communication & services related to broadcasting,2011-12,127471,Himachal_Pradesh
+Communication & services related to broadcasting,2012-13,134557,Himachal_Pradesh
+Communication & services related to broadcasting,2013-14,166919,Himachal_Pradesh
+Communication & services related to broadcasting,2014-15,194266,Himachal_Pradesh
+Financial services,2011-12,287346,Himachal_Pradesh
+Financial services,2012-13,318473,Himachal_Pradesh
+Financial services,2013-14,332560,Himachal_Pradesh
+Financial services,2014-15,362521,Himachal_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,674894,Himachal_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,816170,Himachal_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,967576,Himachal_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,1125937,Himachal_Pradesh
+Public administration,2011-12,375875,Himachal_Pradesh
+Public administration,2012-13,437936,Himachal_Pradesh
+Public administration,2013-14,468316,Himachal_Pradesh
+Public administration,2014-15,553974,Himachal_Pradesh
+Other services,2011-12,612783,Himachal_Pradesh
+Other services,2012-13,714593,Himachal_Pradesh
+Other services,2013-14,768581,Himachal_Pradesh
+Other services,2014-15,923164,Himachal_Pradesh
+"Agriculture, forestry and fishing",2011-12,2233546,Jharkhand
+"Agriculture, forestry and fishing",2012-13,2550211,Jharkhand
+"Agriculture, forestry and fishing",2013-14,2844215,Jharkhand
+"Agriculture, forestry and fishing",2014-15,3211065,Jharkhand
+"Agriculture, forestry and fishing",2015-16,3632150,Jharkhand
+Crops,2011-12,1342099,Jharkhand
+Crops,2012-13,1611776,Jharkhand
+Crops,2013-14,1812103,Jharkhand
+Crops,2014-15,2094466,Jharkhand
+Crops,2015-16,2431179,Jharkhand
+Livestock,2011-12,477585,Jharkhand
+Livestock,2012-13,459416,Jharkhand
+Livestock,2013-14,493408,Jharkhand
+Livestock,2014-15,562503,Jharkhand
+Livestock,2015-16,594001,Jharkhand
+Forestry and logging,2011-12,357560,Jharkhand
+Forestry and logging,2012-13,399912,Jharkhand
+Forestry and logging,2013-14,438916,Jharkhand
+Forestry and logging,2014-15,445149,Jharkhand
+Forestry and logging,2015-16,478733,Jharkhand
+Fishing and aquaculture,2011-12,56302,Jharkhand
+Fishing and aquaculture,2012-13,79107,Jharkhand
+Fishing and aquaculture,2013-14,99788,Jharkhand
+Fishing and aquaculture,2014-15,108947,Jharkhand
+Fishing and aquaculture,2015-16,128237,Jharkhand
+Mining and quarrying,2011-12,1620374,Jharkhand
+Mining and quarrying,2012-13,1879069,Jharkhand
+Mining and quarrying,2013-14,1858615,Jharkhand
+Mining and quarrying,2014-15,2037289,Jharkhand
+Mining and quarrying,2015-16,2199381,Jharkhand
+Manufacturing,2011-12,3016583,Jharkhand
+Manufacturing,2012-13,3797607,Jharkhand
+Manufacturing,2013-14,3660373,Jharkhand
+Manufacturing,2014-15,4114148,Jharkhand
+Manufacturing,2015-16,4569985,Jharkhand
+"Electricity, gas, water supply & other utility services",2011-12,241235,Jharkhand
+"Electricity, gas, water supply & other utility services",2012-13,302773,Jharkhand
+"Electricity, gas, water supply & other utility services",2013-14,335541,Jharkhand
+"Electricity, gas, water supply & other utility services",2014-15,337489,Jharkhand
+"Electricity, gas, water supply & other utility services",2015-16,379501,Jharkhand
+Construction,2011-12,1439526,Jharkhand
+Construction,2012-13,1455717,Jharkhand
+Construction,2013-14,1699296,Jharkhand
+Construction,2014-15,1789834,Jharkhand
+Construction,2015-16,1927075,Jharkhand
+"Trade, repair, hotels and restaurants",2011-12,1152143,Jharkhand
+"Trade, repair, hotels and restaurants",2012-13,1383070,Jharkhand
+"Trade, repair, hotels and restaurants",2013-14,1595751,Jharkhand
+"Trade, repair, hotels and restaurants",2014-15,1991359,Jharkhand
+"Trade, repair, hotels and restaurants",2015-16,2387496,Jharkhand
+Trade & repair services,2011-12,1065983,Jharkhand
+Trade & repair services,2012-13,1272474,Jharkhand
+Trade & repair services,2013-14,1479141,Jharkhand
+Trade & repair services,2014-15,1840196,Jharkhand
+Trade & repair services,2015-16,2204400,Jharkhand
+Hotels & restaurants,2011-12,86160,Jharkhand
+Hotels & restaurants,2012-13,110596,Jharkhand
+Hotels & restaurants,2013-14,116610,Jharkhand
+Hotels & restaurants,2014-15,151163,Jharkhand
+Hotels & restaurants,2015-16,183096,Jharkhand
+"Transport, storage, communication & services related to broadcasting",2011-12,975954,Jharkhand
+"Transport, storage, communication & services related to broadcasting",2012-13,1148809,Jharkhand
+"Transport, storage, communication & services related to broadcasting",2013-14,1325607,Jharkhand
+"Transport, storage, communication & services related to broadcasting",2014-15,1470022,Jharkhand
+"Transport, storage, communication & services related to broadcasting",2015-16,1690746,Jharkhand
+Railways,2011-12,297906,Jharkhand
+Railways,2012-13,362089,Jharkhand
+Railways,2013-14,404019,Jharkhand
+Railways,2014-15,472702,Jharkhand
+Railways,2015-16,551345,Jharkhand
+Road transport,2011-12,458247,Jharkhand
+Road transport,2012-13,530804,Jharkhand
+Road transport,2013-14,608092,Jharkhand
+Road transport,2014-15,649648,Jharkhand
+Road transport,2015-16,729492,Jharkhand
+Water transport,2011-12,0,Jharkhand
+Water transport,2012-13,NA,Jharkhand
+Water transport,2013-14,0,Jharkhand
+Water transport,2014-15,0,Jharkhand
+Water transport,2015-16,0,Jharkhand
+Air transport,2011-12,1373,Jharkhand
+Air transport,2012-13,2448,Jharkhand
+Air transport,2013-14,3362,Jharkhand
+Air transport,2014-15,6716,Jharkhand
+Air transport,2015-16,11455,Jharkhand
+Services incidental to transport,2011-12,22315,Jharkhand
+Services incidental to transport,2012-13,26547,Jharkhand
+Services incidental to transport,2013-14,27554,Jharkhand
+Services incidental to transport,2014-15,17436,Jharkhand
+Services incidental to transport,2015-16,16136,Jharkhand
+Storage,2011-12,384,Jharkhand
+Storage,2012-13,388,Jharkhand
+Storage,2013-14,378,Jharkhand
+Storage,2014-15,306,Jharkhand
+Storage,2015-16,284,Jharkhand
+Communication & services related to broadcasting,2011-12,195729,Jharkhand
+Communication & services related to broadcasting,2012-13,226533,Jharkhand
+Communication & services related to broadcasting,2013-14,282202,Jharkhand
+Communication & services related to broadcasting,2014-15,323214,Jharkhand
+Communication & services related to broadcasting,2015-16,382034,Jharkhand
+Financial services,2011-12,414386,Jharkhand
+Financial services,2012-13,462493,Jharkhand
+Financial services,2013-14,509609,Jharkhand
+Financial services,2014-15,551441,Jharkhand
+Financial services,2015-16,606546,Jharkhand
+"Real estate, ownership of dwelling & professional services",2011-12,1101151,Jharkhand
+"Real estate, ownership of dwelling & professional services",2012-13,1290003,Jharkhand
+"Real estate, ownership of dwelling & professional services",2013-14,1450196,Jharkhand
+"Real estate, ownership of dwelling & professional services",2014-15,1656784,Jharkhand
+"Real estate, ownership of dwelling & professional services",2015-16,1898288,Jharkhand
+Public administration,2011-12,981782,Jharkhand
+Public administration,2012-13,927373,Jharkhand
+Public administration,2013-14,928783,Jharkhand
+Public administration,2014-15,1088325,Jharkhand
+Public administration,2015-16,1126349,Jharkhand
+Other services,2011-12,736279,Jharkhand
+Other services,2012-13,885544,Jharkhand
+Other services,2013-14,1045235,Jharkhand
+Other services,2014-15,1375410,Jharkhand
+Other services,2015-16,1690431,Jharkhand
+"Agriculture, forestry and fishing",2011-12,7554868,Karnataka
+"Agriculture, forestry and fishing",2012-13,8180610,Karnataka
+"Agriculture, forestry and fishing",2013-14,9670052,Karnataka
+"Agriculture, forestry and fishing",2014-15,11219422,Karnataka
+"Agriculture, forestry and fishing",2015-16,10806128,Karnataka
+Crops,2011-12,5339455,Karnataka
+Crops,2012-13,5749544,Karnataka
+Crops,2013-14,6992419,Karnataka
+Crops,2014-15,8157179,Karnataka
+Crops,2015-16,7517661,Karnataka
+Livestock,2011-12,1349662,Karnataka
+Livestock,2012-13,1506993,Karnataka
+Livestock,2013-14,1634066,Karnataka
+Livestock,2014-15,1868771,Karnataka
+Livestock,2015-16,2117661,Karnataka
+Forestry and logging,2011-12,593458,Karnataka
+Forestry and logging,2012-13,604866,Karnataka
+Forestry and logging,2013-14,658629,Karnataka
+Forestry and logging,2014-15,693082,Karnataka
+Forestry and logging,2015-16,720704,Karnataka
+Fishing and aquaculture,2011-12,272293,Karnataka
+Fishing and aquaculture,2012-13,319207,Karnataka
+Fishing and aquaculture,2013-14,384938,Karnataka
+Fishing and aquaculture,2014-15,500390,Karnataka
+Fishing and aquaculture,2015-16,450102,Karnataka
+Mining and quarrying,2011-12,450254,Karnataka
+Mining and quarrying,2012-13,407345,Karnataka
+Mining and quarrying,2013-14,617181,Karnataka
+Mining and quarrying,2014-15,846882,Karnataka
+Mining and quarrying,2015-16,413803,Karnataka
+Manufacturing,2011-12,9713888,Karnataka
+Manufacturing,2012-13,10850509,Karnataka
+Manufacturing,2013-14,11794288,Karnataka
+Manufacturing,2014-15,12953843,Karnataka
+Manufacturing,2015-16,14170107,Karnataka
+"Electricity, gas, water supply & other utility services",2011-12,1082882,Karnataka
+"Electricity, gas, water supply & other utility services",2012-13,1147835,Karnataka
+"Electricity, gas, water supply & other utility services",2013-14,1275595,Karnataka
+"Electricity, gas, water supply & other utility services",2014-15,1425762,Karnataka
+"Electricity, gas, water supply & other utility services",2015-16,1502906,Karnataka
+Construction,2011-12,5033145,Karnataka
+Construction,2012-13,5233950,Karnataka
+Construction,2013-14,5940134,Karnataka
+Construction,2014-15,6104799,Karnataka
+Construction,2015-16,6586669,Karnataka
+"Trade, repair, hotels and restaurants",2011-12,6044367,Karnataka
+"Trade, repair, hotels and restaurants",2012-13,6965384,Karnataka
+"Trade, repair, hotels and restaurants",2013-14,8309100,Karnataka
+"Trade, repair, hotels and restaurants",2014-15,8991658,Karnataka
+"Trade, repair, hotels and restaurants",2015-16,9894203,Karnataka
+Trade & repair services,2011-12,4957019,Karnataka
+Trade & repair services,2012-13,5774921,Karnataka
+Trade & repair services,2013-14,7007816,Karnataka
+Trade & repair services,2014-15,7523720,Karnataka
+Trade & repair services,2015-16,8234129,Karnataka
+Hotels & restaurants,2011-12,1087348,Karnataka
+Hotels & restaurants,2012-13,1190463,Karnataka
+Hotels & restaurants,2013-14,1301284,Karnataka
+Hotels & restaurants,2014-15,1467938,Karnataka
+Hotels & restaurants,2015-16,1660073,Karnataka
+"Transport, storage, communication & services related to broadcasting",2011-12,3351079,Karnataka
+"Transport, storage, communication & services related to broadcasting",2012-13,3839568,Karnataka
+"Transport, storage, communication & services related to broadcasting",2013-14,4405851,Karnataka
+"Transport, storage, communication & services related to broadcasting",2014-15,5097652,Karnataka
+"Transport, storage, communication & services related to broadcasting",2015-16,6072643,Karnataka
+Railways,2011-12,202215,Karnataka
+Railways,2012-13,229754,Karnataka
+Railways,2013-14,229577,Karnataka
+Railways,2014-15,259482,Karnataka
+Railways,2015-16,335247,Karnataka
+Road transport,2011-12,2195731,Karnataka
+Road transport,2012-13,2533015,Karnataka
+Road transport,2013-14,2870094,Karnataka
+Road transport,2014-15,3194576,Karnataka
+Road transport,2015-16,3782060,Karnataka
+Water transport,2011-12,26907,Karnataka
+Water transport,2012-13,25331,Karnataka
+Water transport,2013-14,22460,Karnataka
+Water transport,2014-15,24152,Karnataka
+Water transport,2015-16,23882,Karnataka
+Air transport,2011-12,37365,Karnataka
+Air transport,2012-13,67807,Karnataka
+Air transport,2013-14,56345,Karnataka
+Air transport,2014-15,171785,Karnataka
+Air transport,2015-16,227201,Karnataka
+Services incidental to transport,2011-12,47206,Karnataka
+Services incidental to transport,2012-13,39823,Karnataka
+Services incidental to transport,2013-14,44645,Karnataka
+Services incidental to transport,2014-15,55349,Karnataka
+Services incidental to transport,2015-16,61998,Karnataka
+Storage,2011-12,27642,Karnataka
+Storage,2012-13,31514,Karnataka
+Storage,2013-14,34986,Karnataka
+Storage,2014-15,42787,Karnataka
+Storage,2015-16,48175,Karnataka
+Communication & services related to broadcasting,2011-12,814013,Karnataka
+Communication & services related to broadcasting,2012-13,912325,Karnataka
+Communication & services related to broadcasting,2013-14,1147745,Karnataka
+Communication & services related to broadcasting,2014-15,1349520,Karnataka
+Communication & services related to broadcasting,2015-16,1594080,Karnataka
+Financial services,2011-12,2879395,Karnataka
+Financial services,2012-13,3211947,Karnataka
+Financial services,2013-14,3610955,Karnataka
+Financial services,2014-15,4094169,Karnataka
+Financial services,2015-16,4482507,Karnataka
+"Real estate, ownership of dwelling & professional services",2011-12,14366759,Karnataka
+"Real estate, ownership of dwelling & professional services",2012-13,17695719,Karnataka
+"Real estate, ownership of dwelling & professional services",2013-14,21856110,Karnataka
+"Real estate, ownership of dwelling & professional services",2014-15,24766393,Karnataka
+"Real estate, ownership of dwelling & professional services",2015-16,29229656,Karnataka
+Public administration,2011-12,1488762,Karnataka
+Public administration,2012-13,1785628,Karnataka
+Public administration,2013-14,2060700,Karnataka
+Public administration,2014-15,2232584,Karnataka
+Public administration,2015-16,2376712,Karnataka
+Other services,2011-12,3256051,Karnataka
+Other services,2012-13,3837408,Karnataka
+Other services,2013-14,4501578,Karnataka
+Other services,2014-15,5308174,Karnataka
+Other services,2015-16,6267020,Karnataka
+"Agriculture, forestry and fishing",2011-12,4837594,Kerala
+"Agriculture, forestry and fishing",2012-13,5036409,Kerala
+"Agriculture, forestry and fishing",2013-14,5501261,Kerala
+"Agriculture, forestry and fishing",2014-15,5930617,Kerala
+"Agriculture, forestry and fishing",2015-16,5871958,Kerala
+Crops,2011-12,2904593,Kerala
+Crops,2012-13,2640015,Kerala
+Crops,2013-14,2837347,Kerala
+Crops,2014-15,3070386,Kerala
+Crops,2015-16,2685772,Kerala
+Livestock,2011-12,1125351,Kerala
+Livestock,2012-13,1411393,Kerala
+Livestock,2013-14,1548294,Kerala
+Livestock,2014-15,1656104,Kerala
+Livestock,2015-16,1890417,Kerala
+Forestry and logging,2011-12,430286,Kerala
+Forestry and logging,2012-13,469819,Kerala
+Forestry and logging,2013-14,492782,Kerala
+Forestry and logging,2014-15,499808,Kerala
+Forestry and logging,2015-16,559582,Kerala
+Fishing and aquaculture,2011-12,377363,Kerala
+Fishing and aquaculture,2012-13,515183,Kerala
+Fishing and aquaculture,2013-14,622837,Kerala
+Fishing and aquaculture,2014-15,704319,Kerala
+Fishing and aquaculture,2015-16,736188,Kerala
+Mining and quarrying,2011-12,272483,Kerala
+Mining and quarrying,2012-13,267683,Kerala
+Mining and quarrying,2013-14,401836,Kerala
+Mining and quarrying,2014-15,558824,Kerala
+Mining and quarrying,2015-16,593520,Kerala
+Manufacturing,2011-12,3420404,Kerala
+Manufacturing,2012-13,4054145,Kerala
+Manufacturing,2013-14,4069129,Kerala
+Manufacturing,2014-15,4273567,Kerala
+Manufacturing,2015-16,4670069,Kerala
+"Electricity, gas, water supply & other utility services",2011-12,467898,Kerala
+"Electricity, gas, water supply & other utility services",2012-13,538745,Kerala
+"Electricity, gas, water supply & other utility services",2013-14,570824,Kerala
+"Electricity, gas, water supply & other utility services",2014-15,482470,Kerala
+"Electricity, gas, water supply & other utility services",2015-16,611019,Kerala
+Construction,2011-12,5308794,Kerala
+Construction,2012-13,5544177,Kerala
+Construction,2013-14,6436556,Kerala
+Construction,2014-15,7314003,Kerala
+Construction,2015-16,7722140,Kerala
+"Trade, repair, hotels and restaurants",2011-12,5321692,Kerala
+"Trade, repair, hotels and restaurants",2012-13,6502369,Kerala
+"Trade, repair, hotels and restaurants",2013-14,7368355,Kerala
+"Trade, repair, hotels and restaurants",2014-15,8557345,Kerala
+"Trade, repair, hotels and restaurants",2015-16,9916986,Kerala
+Trade & repair services*,2011-12,4732163,Kerala
+Trade & repair services*,2012-13,5849587,Kerala
+Trade & repair services*,2013-14,6657209,Kerala
+Trade & repair services*,2014-15,7763847,Kerala
+Trade & repair services*,2015-16,9031847,Kerala
+Hotels & restaurants,2011-12,589529,Kerala
+Hotels & restaurants,2012-13,652782,Kerala
+Hotels & restaurants,2013-14,711146,Kerala
+Hotels & restaurants,2014-15,793498,Kerala
+Hotels & restaurants,2015-16,885139,Kerala
+"Transport, storage, communication & services related to broadcasting",2011-12,2797969,Kerala
+"Transport, storage, communication & services related to broadcasting",2012-13,3110217,Kerala
+"Transport, storage, communication & services related to broadcasting",2013-14,3608615,Kerala
+"Transport, storage, communication & services related to broadcasting",2014-15,4020934,Kerala
+"Transport, storage, communication & services related to broadcasting",2015-16,4613037,Kerala
+Railways,2011-12,98140,Kerala
+Railways,2012-13,119548,Kerala
+Railways,2013-14,126962,Kerala
+Railways,2014-15,147897,Kerala
+Railways,2015-16,172284,Kerala
+Road transport**,2011-12,2001208,Kerala
+Road transport**,2012-13,2237489,Kerala
+Road transport**,2013-14,2591554,Kerala
+Road transport**,2014-15,2761427,Kerala
+Road transport**,2015-16,2963818,Kerala
+Water transport,2011-12,28281,Kerala
+Water transport,2012-13,24400,Kerala
+Water transport,2013-14,20105,Kerala
+Water transport,2014-15,26956,Kerala
+Water transport,2015-16,29934,Kerala
+Air transport,2011-12,26891,Kerala
+Air transport,2012-13,52009,Kerala
+Air transport,2013-14,42831,Kerala
+Air transport,2014-15,125029,Kerala
+Air transport,2015-16,326208,Kerala
+Services incidental to transport,2011-12,61793,Kerala
+Services incidental to transport,2012-13,59010,Kerala
+Services incidental to transport,2013-14,69440,Kerala
+Services incidental to transport,2014-15,71567,Kerala
+Services incidental to transport,2015-16,75275,Kerala
+Storage,2011-12,3317,Kerala
+Storage,2012-13,3736,Kerala
+Storage,2013-14,2877,Kerala
+Storage,2014-15,3290,Kerala
+Storage,2015-16,3822,Kerala
+Communication & services related to broadcasting,2011-12,578340,Kerala
+Communication & services related to broadcasting,2012-13,614025,Kerala
+Communication & services related to broadcasting,2013-14,754846,Kerala
+Communication & services related to broadcasting,2014-15,884767,Kerala
+Communication & services related to broadcasting,2015-16,1041695,Kerala
+Financial services,2011-12,1430848,Kerala
+Financial services,2012-13,1629698,Kerala
+Financial services,2013-14,1853055,Kerala
+Financial services,2014-15,2010306,Kerala
+Financial services,2015-16,2180902,Kerala
+"Real estate, ownership of dwelling & professional services",2011-12,4220948,Kerala
+"Real estate, ownership of dwelling & professional services",2012-13,5223391,Kerala
+"Real estate, ownership of dwelling & professional services",2013-14,6190742,Kerala
+"Real estate, ownership of dwelling & professional services",2014-15,7287633,Kerala
+"Real estate, ownership of dwelling & professional services",2015-16,8584749,Kerala
+Public administration,2011-12,1585585,Kerala
+Public administration,2012-13,1718357,Kerala
+Public administration,2013-14,1874509,Kerala
+Public administration,2014-15,2068915,Kerala
+Public administration,2015-16,2306545,Kerala
+Other services,2011-12,3965096,Kerala
+Other services,2012-13,4503098,Kerala
+Other services,2013-14,5035147,Kerala
+Other services,2014-15,5728645,Kerala
+Other services,2015-16,6503671,Kerala
+"Agriculture, forestry and fishing",2011-12,9107231,Madhya_Pradesh
+"Agriculture, forestry and fishing",2012-13,12640261,Madhya_Pradesh
+"Agriculture, forestry and fishing",2013-14,14859567,Madhya_Pradesh
+"Agriculture, forestry and fishing",2014-15,16235647,Madhya_Pradesh
+"Agriculture, forestry and fishing",2015-16,17861367,Madhya_Pradesh
+"Agriculture, forestry and fishing",2016-17,23308835,Madhya_Pradesh
+Crops,2011-12,7333369,Madhya_Pradesh
+Crops,2012-13,10540449,Madhya_Pradesh
+Crops,2013-14,12457830,Madhya_Pradesh
+Crops,2014-15,13216013,Madhya_Pradesh
+Crops,2015-16,13958549,Madhya_Pradesh
+Crops,2016-17,18661843,Madhya_Pradesh
+Livestock,2011-12,897640,Madhya_Pradesh
+Livestock,2012-13,1129978,Madhya_Pradesh
+Livestock,2013-14,1363179,Madhya_Pradesh
+Livestock,2014-15,1932769,Madhya_Pradesh
+Livestock,2015-16,2745187,Madhya_Pradesh
+Livestock,2016-17,3375141,Madhya_Pradesh
+Forestry and logging,2011-12,811315,Madhya_Pradesh
+Forestry and logging,2012-13,892627,Madhya_Pradesh
+Forestry and logging,2013-14,943162,Madhya_Pradesh
+Forestry and logging,2014-15,965588,Madhya_Pradesh
+Forestry and logging,2015-16,1018504,Madhya_Pradesh
+Forestry and logging,2016-17,1091337,Madhya_Pradesh
+Fishing and aquaculture,2011-12,64907,Madhya_Pradesh
+Fishing and aquaculture,2012-13,77207,Madhya_Pradesh
+Fishing and aquaculture,2013-14,95396,Madhya_Pradesh
+Fishing and aquaculture,2014-15,121277,Madhya_Pradesh
+Fishing and aquaculture,2015-16,139127,Madhya_Pradesh
+Fishing and aquaculture,2016-17,180514,Madhya_Pradesh
+Mining and quarrying,2011-12,1171195,Madhya_Pradesh
+Mining and quarrying,2012-13,1260187,Madhya_Pradesh
+Mining and quarrying,2013-14,1548066,Madhya_Pradesh
+Mining and quarrying,2014-15,1618373,Madhya_Pradesh
+Mining and quarrying,2015-16,1686385,Madhya_Pradesh
+Mining and quarrying,2016-17,1924216,Madhya_Pradesh
+Manufacturing,2011-12,3828625,Madhya_Pradesh
+Manufacturing,2012-13,4171724,Madhya_Pradesh
+Manufacturing,2013-14,4018450,Madhya_Pradesh
+Manufacturing,2014-15,4368833,Madhya_Pradesh
+Manufacturing,2015-16,4730335,Madhya_Pradesh
+Manufacturing,2016-17,5175608,Madhya_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,903127,Madhya_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,1011624,Madhya_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,1161616,Madhya_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,1272905,Madhya_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,1520303,Madhya_Pradesh
+"Electricity, gas, water supply & other utility services",2016-17,1679614,Madhya_Pradesh
+Construction,2011-12,3495447,Madhya_Pradesh
+Construction,2012-13,3499404,Madhya_Pradesh
+Construction,2013-14,4080463,Madhya_Pradesh
+Construction,2014-15,4403151,Madhya_Pradesh
+Construction,2015-16,4772101,Madhya_Pradesh
+Construction,2016-17,5186891,Madhya_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,3378935,Madhya_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,4128368,Madhya_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,4714291,Madhya_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,5357515,Madhya_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,6237544,Madhya_Pradesh
+"Trade, repair, hotels and restaurants",2016-17,6914838,Madhya_Pradesh
+Trade & repair services,2011-12,3149375,Madhya_Pradesh
+Trade & repair services,2012-13,3873696,Madhya_Pradesh
+Trade & repair services,2013-14,4427944,Madhya_Pradesh
+Trade & repair services,2014-15,5053625,Madhya_Pradesh
+Trade & repair services,2015-16,5901007,Madhya_Pradesh
+Trade & repair services,2016-17,6556695,Madhya_Pradesh
+Hotels & restaurants,2011-12,229560,Madhya_Pradesh
+Hotels & restaurants,2012-13,254672,Madhya_Pradesh
+Hotels & restaurants,2013-14,286347,Madhya_Pradesh
+Hotels & restaurants,2014-15,303890,Madhya_Pradesh
+Hotels & restaurants,2015-16,336537,Madhya_Pradesh
+Hotels & restaurants,2016-17,358143,Madhya_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,1831032,Madhya_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,2199650,Madhya_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,2505384,Madhya_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,2865802,Madhya_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,3329850,Madhya_Pradesh
+"Transport, storage, communication & services related to broadcasting",2016-17,3806046,Madhya_Pradesh
+Railways,2011-12,318912,Madhya_Pradesh
+Railways,2012-13,436586,Madhya_Pradesh
+Railways,2013-14,457608,Madhya_Pradesh
+Railways,2014-15,498734,Madhya_Pradesh
+Railways,2015-16,581300,Madhya_Pradesh
+Railways,2016-17,617543,Madhya_Pradesh
+Road transport,2011-12,949685,Madhya_Pradesh
+Road transport,2012-13,1096094,Madhya_Pradesh
+Road transport,2013-14,1209997,Madhya_Pradesh
+Road transport,2014-15,1369235,Madhya_Pradesh
+Road transport,2015-16,1538680,Madhya_Pradesh
+Road transport,2016-17,1705112,Madhya_Pradesh
+Water transport,2011-12,0,Madhya_Pradesh
+Water transport,2012-13,0,Madhya_Pradesh
+Water transport,2013-14,0,Madhya_Pradesh
+Water transport,2014-15,0,Madhya_Pradesh
+Water transport,2015-16,0,Madhya_Pradesh
+Water transport,2016-17,0,Madhya_Pradesh
+Air transport,2011-12,4209,Madhya_Pradesh
+Air transport,2012-13,8197,Madhya_Pradesh
+Air transport,2013-14,6141,Madhya_Pradesh
+Air transport,2014-15,26746,Madhya_Pradesh
+Air transport,2015-16,26745,Madhya_Pradesh
+Air transport,2016-17,54206,Madhya_Pradesh
+Services incidental to transport,2011-12,25479,Madhya_Pradesh
+Services incidental to transport,2012-13,29362,Madhya_Pradesh
+Services incidental to transport,2013-14,32489,Madhya_Pradesh
+Services incidental to transport,2014-15,36694,Madhya_Pradesh
+Services incidental to transport,2015-16,41412,Madhya_Pradesh
+Services incidental to transport,2016-17,46101,Madhya_Pradesh
+Storage,2011-12,18514,Madhya_Pradesh
+Storage,2012-13,23059,Madhya_Pradesh
+Storage,2013-14,26256,Madhya_Pradesh
+Storage,2014-15,29012,Madhya_Pradesh
+Storage,2015-16,33987,Madhya_Pradesh
+Storage,2016-17,38059,Madhya_Pradesh
+Communication & services related to broadcasting,2011-12,514233,Madhya_Pradesh
+Communication & services related to broadcasting,2012-13,606352,Madhya_Pradesh
+Communication & services related to broadcasting,2013-14,772893,Madhya_Pradesh
+Communication & services related to broadcasting,2014-15,905381,Madhya_Pradesh
+Communication & services related to broadcasting,2015-16,1107726,Madhya_Pradesh
+Communication & services related to broadcasting,2016-17,1345025,Madhya_Pradesh
+Financial services,2011-12,1593654,Madhya_Pradesh
+Financial services,2012-13,1732129,Madhya_Pradesh
+Financial services,2013-14,1920614,Madhya_Pradesh
+Financial services,2014-15,1988794,Madhya_Pradesh
+Financial services,2015-16,2384124,Madhya_Pradesh
+Financial services,2016-17,2674933,Madhya_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,1639308,Madhya_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,1945857,Madhya_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,2279709,Madhya_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,2660123,Madhya_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,3085987,Madhya_Pradesh
+"Real estate, ownership of dwelling & professional services",2016-17,3499140,Madhya_Pradesh
+Public administration,2011-12,1629141,Madhya_Pradesh
+Public administration,2012-13,1907083,Madhya_Pradesh
+Public administration,2013-14,2164636,Madhya_Pradesh
+Public administration,2014-15,2497321,Madhya_Pradesh
+Public administration,2015-16,2873690,Madhya_Pradesh
+Public administration,2016-17,3221560,Madhya_Pradesh
+Other services,2011-12,1791096,Madhya_Pradesh
+Other services,2012-13,2145512,Madhya_Pradesh
+Other services,2013-14,2359317,Madhya_Pradesh
+Other services,2014-15,2747805,Madhya_Pradesh
+Other services,2015-16,3200937,Madhya_Pradesh
+Other services,2016-17,3511083,Madhya_Pradesh
+"Agriculture, forestry and fishing",2011-12,14517809,Maharashtra
+"Agriculture, forestry and fishing",2012-13,15443212,Maharashtra
+"Agriculture, forestry and fishing",2013-14,18586360,Maharashtra
+"Agriculture, forestry and fishing",2014-15,16475655,Maharashtra
+Crops,2011-12,9851618,Maharashtra
+Crops,2012-13,10182217,Maharashtra
+Crops,2013-14,13079162,Maharashtra
+Crops,2014-15,10435121,Maharashtra
+Livestock,2011-12,2855741,Maharashtra
+Livestock,2012-13,3282569,Maharashtra
+Livestock,2013-14,3499939,Maharashtra
+Livestock,2014-15,3972829,Maharashtra
+Forestry and logging,2011-12,1516574,Maharashtra
+Forestry and logging,2012-13,1626793,Maharashtra
+Forestry and logging,2013-14,1622060,Maharashtra
+Forestry and logging,2014-15,1592564,Maharashtra
+Fishing and aquaculture,2011-12,293875,Maharashtra
+Fishing and aquaculture,2012-13,351634,Maharashtra
+Fishing and aquaculture,2013-14,385199,Maharashtra
+Fishing and aquaculture,2014-15,475141,Maharashtra
+Mining and quarrying,2011-12,5649313,Maharashtra
+Mining and quarrying,2012-13,5902340,Maharashtra
+Mining and quarrying,2013-14,5205701,Maharashtra
+Mining and quarrying,2014-15,5282727,Maharashtra
+Manufacturing,2011-12,24603175,Maharashtra
+Manufacturing,2012-13,28203191,Maharashtra
+Manufacturing,2013-14,31267420,Maharashtra
+Manufacturing,2014-15,33660294,Maharashtra
+"Electricity, gas, water supply & other utility services",2011-12,2617289,Maharashtra
+"Electricity, gas, water supply & other utility services",2012-13,2852444,Maharashtra
+"Electricity, gas, water supply & other utility services",2013-14,4028665,Maharashtra
+"Electricity, gas, water supply & other utility services",2014-15,4334702,Maharashtra
+Construction,2011-12,7863028,Maharashtra
+Construction,2012-13,8186890,Maharashtra
+Construction,2013-14,8867104,Maharashtra
+Construction,2014-15,9450211,Maharashtra
+"Trade, repair, hotels and restaurants",2011-12,10560911,Maharashtra
+"Trade, repair, hotels and restaurants",2012-13,12779220,Maharashtra
+"Trade, repair, hotels and restaurants",2013-14,13826084,Maharashtra
+"Trade, repair, hotels and restaurants",2014-15,15839100,Maharashtra
+Trade & repair services,2011-12,9422900,Maharashtra
+Trade & repair services,2012-13,11507640,Maharashtra
+Trade & repair services,2013-14,12433410,Maharashtra
+Trade & repair services,2014-15,14286902,Maharashtra
+Hotels & restaurants,2011-12,1138011,Maharashtra
+Hotels & restaurants,2012-13,1271580,Maharashtra
+Hotels & restaurants,2013-14,1392674,Maharashtra
+Hotels & restaurants,2014-15,1552198,Maharashtra
+"Transport, storage, communication & services related to broadcasting",2011-12,6450024,Maharashtra
+"Transport, storage, communication & services related to broadcasting",2012-13,7485340,Maharashtra
+"Transport, storage, communication & services related to broadcasting",2013-14,8371252,Maharashtra
+"Transport, storage, communication & services related to broadcasting",2014-15,9697246,Maharashtra
+Railways,2011-12,598786,Maharashtra
+Railways,2012-13,649139,Maharashtra
+Railways,2013-14,686231,Maharashtra
+Railways,2014-15,797933,Maharashtra
+Road transport,2011-12,3122427,Maharashtra
+Road transport,2012-13,3589076,Maharashtra
+Road transport,2013-14,4065463,Maharashtra
+Road transport,2014-15,4644123,Maharashtra
+Water transport,2011-12,122650,Maharashtra
+Water transport,2012-13,187220,Maharashtra
+Water transport,2013-14,172703,Maharashtra
+Water transport,2014-15,223626,Maharashtra
+Air transport,2011-12,99047,Maharashtra
+Air transport,2012-13,183101,Maharashtra
+Air transport,2013-14,144304,Maharashtra
+Air transport,2014-15,174188,Maharashtra
+Services incidental to transport,2011-12,825433,Maharashtra
+Services incidental to transport,2012-13,973656,Maharashtra
+Services incidental to transport,2013-14,1040005,Maharashtra
+Services incidental to transport,2014-15,1175023,Maharashtra
+Storage,2011-12,92479,Maharashtra
+Storage,2012-13,101918,Maharashtra
+Storage,2013-14,116229,Maharashtra
+Storage,2014-15,131237,Maharashtra
+Communication & services related to broadcasting,2011-12,1589202,Maharashtra
+Communication & services related to broadcasting,2012-13,1801230,Maharashtra
+Communication & services related to broadcasting,2013-14,2146318,Maharashtra
+Communication & services related to broadcasting,2014-15,2551115,Maharashtra
+Financial services,2011-12,11783628,Maharashtra
+Financial services,2012-13,12909085,Maharashtra
+Financial services,2013-14,14993996,Maharashtra
+Financial services,2014-15,16143324,Maharashtra
+"Real estate, ownership of dwelling & professional services",2011-12,19086971,Maharashtra
+"Real estate, ownership of dwelling & professional services",2012-13,22457025,Maharashtra
+"Real estate, ownership of dwelling & professional services",2013-14,26166722,Maharashtra
+"Real estate, ownership of dwelling & professional services",2014-15,30718051,Maharashtra
+Public administration,2011-12,3906953,Maharashtra
+Public administration,2012-13,4337362,Maharashtra
+Public administration,2013-14,4763853,Maharashtra
+Public administration,2014-15,5426991,Maharashtra
+Other services,2011-12,6662495,Maharashtra
+Other services,2012-13,7831781,Maharashtra
+Other services,2013-14,9199390,Maharashtra
+Other services,2014-15,10806363,Maharashtra
+"Agriculture, forestry and fishing",2011-12,251623,Manipur
+"Agriculture, forestry and fishing",2012-13,297165,Manipur
+"Agriculture, forestry and fishing",2013-14,349942,Manipur
+"Agriculture, forestry and fishing",2014-15,383140,Manipur
+Crops,2011-12,137772,Manipur
+Crops,2012-13,168583,Manipur
+Crops,2013-14,205623,Manipur
+Crops,2014-15,226583,Manipur
+Livestock,2011-12,52587,Manipur
+Livestock,2012-13,58268,Manipur
+Livestock,2013-14,67294,Manipur
+Livestock,2014-15,75483,Manipur
+Forestry and logging,2011-12,42183,Manipur
+Forestry and logging,2012-13,43885,Manipur
+Forestry and logging,2013-14,43188,Manipur
+Forestry and logging,2014-15,45831,Manipur
+Fishing and aquaculture,2011-12,19081,Manipur
+Fishing and aquaculture,2012-13,26429,Manipur
+Fishing and aquaculture,2013-14,33836,Manipur
+Fishing and aquaculture,2014-15,35243,Manipur
+Mining and quarrying,2011-12,NA,Manipur
+Mining and quarrying,2012-13,NA,Manipur
+Mining and quarrying,2013-14,NA,Manipur
+Mining and quarrying,2014-15,NA,Manipur
+Manufacturing,2011-12,40990,Manipur
+Manufacturing,2012-13,30594,Manipur
+Manufacturing,2013-14,46011,Manipur
+Manufacturing,2014-15,49501,Manipur
+"Electricity, gas, water supply & other utility services",2011-12,54276,Manipur
+"Electricity, gas, water supply & other utility services",2012-13,55506,Manipur
+"Electricity, gas, water supply & other utility services",2013-14,48391,Manipur
+"Electricity, gas, water supply & other utility services",2014-15,27490,Manipur
+Construction,2011-12,100712,Manipur
+Construction,2012-13,106164,Manipur
+Construction,2013-14,120023,Manipur
+Construction,2014-15,143182,Manipur
+"Trade, repair, hotels and restaurants",2011-12,156450,Manipur
+"Trade, repair, hotels and restaurants",2012-13,140653,Manipur
+"Trade, repair, hotels and restaurants",2013-14,217288,Manipur
+"Trade, repair, hotels and restaurants",2014-15,262950,Manipur
+Trade & repair services,2011-12,149457,Manipur
+Trade & repair services,2012-13,132930,Manipur
+Trade & repair services,2013-14,208884,Manipur
+Trade & repair services,2014-15,253637,Manipur
+Hotels & restaurants,2011-12,6993,Manipur
+Hotels & restaurants,2012-13,7723,Manipur
+Hotels & restaurants,2013-14,8404,Manipur
+Hotels & restaurants,2014-15,9313,Manipur
+"Transport, storage, communication & services related to broadcasting",2011-12,70408,Manipur
+"Transport, storage, communication & services related to broadcasting",2012-13,87255,Manipur
+"Transport, storage, communication & services related to broadcasting",2013-14,98126,Manipur
+"Transport, storage, communication & services related to broadcasting",2014-15,109726,Manipur
+Railways,2011-12,2,Manipur
+Railways,2012-13,3,Manipur
+Railways,2013-14,5,Manipur
+Railways,2014-15,6,Manipur
+Road transport,2011-12,43561,Manipur
+Road transport,2012-13,53400,Manipur
+Road transport,2013-14,56436,Manipur
+Road transport,2014-15,58974,Manipur
+Water transport,2011-12,NA,Manipur
+Water transport,2012-13,NA,Manipur
+Water transport,2013-14,NA,Manipur
+Water transport,2014-15,NA,Manipur
+Air transport,2011-12,1999,Manipur
+Air transport,2012-13,3502,Manipur
+Air transport,2013-14,2499,Manipur
+Air transport,2014-15,6288,Manipur
+Services incidental to transport,2011-12,1816,Manipur
+Services incidental to transport,2012-13,2226,Manipur
+Services incidental to transport,2013-14,2330,Manipur
+Services incidental to transport,2014-15,2441,Manipur
+Storage,2011-12,0,Manipur
+Storage,2012-13,NA,Manipur
+Storage,2013-14,NA,Manipur
+Storage,2014-15,NA,Manipur
+Communication & services related to broadcasting,2011-12,23030,Manipur
+Communication & services related to broadcasting,2012-13,28124,Manipur
+Communication & services related to broadcasting,2013-14,36856,Manipur
+Communication & services related to broadcasting,2014-15,42017,Manipur
+Financial services,2011-12,23400,Manipur
+Financial services,2012-13,25705,Manipur
+Financial services,2013-14,28663,Manipur
+Financial services,2014-15,30315,Manipur
+"Real estate, ownership of dwelling & professional services",2011-12,134847,Manipur
+"Real estate, ownership of dwelling & professional services",2012-13,144304,Manipur
+"Real estate, ownership of dwelling & professional services",2013-14,152279,Manipur
+"Real estate, ownership of dwelling & professional services",2014-15,159335,Manipur
+Public administration,2011-12,231790,Manipur
+Public administration,2012-13,243900,Manipur
+Public administration,2013-14,252574,Manipur
+Public administration,2014-15,297078,Manipur
+Other services,2011-12,208417,Manipur
+Other services,2012-13,241678,Manipur
+Other services,2013-14,272290,Manipur
+Other services,2014-15,317930,Manipur
+"Agriculture, forestry and fishing",2011-12,282868,Meghalaya
+"Agriculture, forestry and fishing",2012-13,322670,Meghalaya
+"Agriculture, forestry and fishing",2013-14,344514,Meghalaya
+"Agriculture, forestry and fishing",2014-15,366521,Meghalaya
+"Agriculture, forestry and fishing",2015-16,401331,Meghalaya
+"Agriculture, forestry and fishing",2016-17,433602,Meghalaya
+Crops,2011-12,163103,Meghalaya
+Crops,2012-13,198591,Meghalaya
+Crops,2013-14,208494,Meghalaya
+Crops,2014-15,223330,Meghalaya
+Crops,2015-16,245122,Meghalaya
+Crops,2016-17,267849,Meghalaya
+Livestock,2011-12,59593,Meghalaya
+Livestock,2012-13,60863,Meghalaya
+Livestock,2013-14,69345,Meghalaya
+Livestock,2014-15,72442,Meghalaya
+Livestock,2015-16,75531,Meghalaya
+Livestock,2016-17,78611,Meghalaya
+Forestry and logging,2011-12,56090,Meghalaya
+Forestry and logging,2012-13,55730,Meghalaya
+Forestry and logging,2013-14,58137,Meghalaya
+Forestry and logging,2014-15,61166,Meghalaya
+Forestry and logging,2015-16,62680,Meghalaya
+Forestry and logging,2016-17,64881,Meghalaya
+Fishing and aquaculture,2011-12,4082,Meghalaya
+Fishing and aquaculture,2012-13,7486,Meghalaya
+Fishing and aquaculture,2013-14,8538,Meghalaya
+Fishing and aquaculture,2014-15,9583,Meghalaya
+Fishing and aquaculture,2015-16,17998,Meghalaya
+Fishing and aquaculture,2016-17,22261,Meghalaya
+Mining and quarrying,2011-12,139436,Meghalaya
+Mining and quarrying,2012-13,122745,Meghalaya
+Mining and quarrying,2013-14,188716,Meghalaya
+Mining and quarrying,2014-15,84529,Meghalaya
+Mining and quarrying,2015-16,86582,Meghalaya
+Mining and quarrying,2016-17,90932,Meghalaya
+Manufacturing,2011-12,464603,Meghalaya
+Manufacturing,2012-13,493214,Meghalaya
+Manufacturing,2013-14,399384,Meghalaya
+Manufacturing,2014-15,433213,Meghalaya
+Manufacturing,2015-16,484399,Meghalaya
+Manufacturing,2016-17,532284,Meghalaya
+"Electricity, gas, water supply & other utility services",2011-12,45558,Meghalaya
+"Electricity, gas, water supply & other utility services",2012-13,70063,Meghalaya
+"Electricity, gas, water supply & other utility services",2013-14,42870,Meghalaya
+"Electricity, gas, water supply & other utility services",2014-15,54473,Meghalaya
+"Electricity, gas, water supply & other utility services",2015-16,57931,Meghalaya
+"Electricity, gas, water supply & other utility services",2016-17,59784,Meghalaya
+Construction,2011-12,113619,Meghalaya
+Construction,2012-13,103723,Meghalaya
+Construction,2013-14,117094,Meghalaya
+Construction,2014-15,150256,Meghalaya
+Construction,2015-16,162705,Meghalaya
+Construction,2016-17,179073,Meghalaya
+"Trade, repair, hotels and restaurants",2011-12,258058,Meghalaya
+"Trade, repair, hotels and restaurants",2012-13,321598,Meghalaya
+"Trade, repair, hotels and restaurants",2013-14,374564,Meghalaya
+"Trade, repair, hotels and restaurants",2014-15,383974,Meghalaya
+"Trade, repair, hotels and restaurants",2015-16,409337,Meghalaya
+"Trade, repair, hotels and restaurants",2016-17,452787,Meghalaya
+Trade & repair services,2011-12,239040,Meghalaya
+Trade & repair services,2012-13,300758,Meghalaya
+Trade & repair services,2013-14,351794,Meghalaya
+Trade & repair services,2014-15,357727,Meghalaya
+Trade & repair services,2015-16,378937,Meghalaya
+Trade & repair services,2016-17,417559,Meghalaya
+Hotels & restaurants,2011-12,19018,Meghalaya
+Hotels & restaurants,2012-13,20840,Meghalaya
+Hotels & restaurants,2013-14,22770,Meghalaya
+Hotels & restaurants,2014-15,26247,Meghalaya
+Hotels & restaurants,2015-16,30400,Meghalaya
+Hotels & restaurants,2016-17,35228,Meghalaya
+"Transport, storage, communication & services related to broadcasting",2011-12,95615,Meghalaya
+"Transport, storage, communication & services related to broadcasting",2012-13,114541,Meghalaya
+"Transport, storage, communication & services related to broadcasting",2013-14,129657,Meghalaya
+"Transport, storage, communication & services related to broadcasting",2014-15,148189,Meghalaya
+"Transport, storage, communication & services related to broadcasting",2015-16,173458,Meghalaya
+"Transport, storage, communication & services related to broadcasting",2016-17,210783,Meghalaya
+Railways,2011-12,0,Meghalaya
+Railways,2012-13,0,Meghalaya
+Railways,2013-14,0,Meghalaya
+Railways,2014-15,0,Meghalaya
+Railways,2015-16,0,Meghalaya
+Railways,2016-17,0,Meghalaya
+Road transport,2011-12,70235,Meghalaya
+Road transport,2012-13,82990,Meghalaya
+Road transport,2013-14,90559,Meghalaya
+Road transport,2014-15,105783,Meghalaya
+Road transport,2015-16,125359,Meghalaya
+Road transport,2016-17,153641,Meghalaya
+Water transport,2011-12,NA,Meghalaya
+Water transport,2012-13,NA,Meghalaya
+Water transport,2013-14,NA,Meghalaya
+Water transport,2014-15,NA,Meghalaya
+Water transport,2015-16,NA,Meghalaya
+Water transport,2016-17,NA,Meghalaya
+Air transport,2011-12,325,Meghalaya
+Air transport,2012-13,605,Meghalaya
+Air transport,2013-14,525,Meghalaya
+Air transport,2014-15,1443,Meghalaya
+Air transport,2015-16,1717,Meghalaya
+Air transport,2016-17,2112,Meghalaya
+Services incidental to transport,2011-12,NA,Meghalaya
+Services incidental to transport,2012-13,NA,Meghalaya
+Services incidental to transport,2013-14,NA,Meghalaya
+Services incidental to transport,2014-15,NA,Meghalaya
+Services incidental to transport,2015-16,NA,Meghalaya
+Services incidental to transport,2016-17,NA,Meghalaya
+Storage,2011-12,288,Meghalaya
+Storage,2012-13,320,Meghalaya
+Storage,2013-14,364,Meghalaya
+Storage,2014-15,416,Meghalaya
+Storage,2015-16,474,Meghalaya
+Storage,2016-17,539,Meghalaya
+Communication & services related to broadcasting,2011-12,24767,Meghalaya
+Communication & services related to broadcasting,2012-13,30625,Meghalaya
+Communication & services related to broadcasting,2013-14,38209,Meghalaya
+Communication & services related to broadcasting,2014-15,40547,Meghalaya
+Communication & services related to broadcasting,2015-16,45908,Meghalaya
+Communication & services related to broadcasting,2016-17,54491,Meghalaya
+Financial services,2011-12,55825,Meghalaya
+Financial services,2012-13,56562,Meghalaya
+Financial services,2013-14,60604,Meghalaya
+Financial services,2014-15,64091,Meghalaya
+Financial services,2015-16,69815,Meghalaya
+Financial services,2016-17,74891,Meghalaya
+"Real estate, ownership of dwelling & professional services",2011-12,115443,Meghalaya
+"Real estate, ownership of dwelling & professional services",2012-13,127014,Meghalaya
+"Real estate, ownership of dwelling & professional services",2013-14,137835,Meghalaya
+"Real estate, ownership of dwelling & professional services",2014-15,150409,Meghalaya
+"Real estate, ownership of dwelling & professional services",2015-16,161674,Meghalaya
+"Real estate, ownership of dwelling & professional services",2016-17,175724,Meghalaya
+Public administration,2011-12,177913,Meghalaya
+Public administration,2012-13,183125,Meghalaya
+Public administration,2013-14,208108,Meghalaya
+Public administration,2014-15,239782,Meghalaya
+Public administration,2015-16,248077,Meghalaya
+Public administration,2016-17,264438,Meghalaya
+Other services,2011-12,143244,Meghalaya
+Other services,2012-13,158612,Meghalaya
+Other services,2013-14,181083,Meghalaya
+Other services,2014-15,214211,Meghalaya
+Other services,2015-16,246233,Meghalaya
+Other services,2016-17,286068,Meghalaya
+"Agriculture, forestry and fishing",2011-12,149468,Mizoram
+"Agriculture, forestry and fishing",2012-13,161353,Mizoram
+"Agriculture, forestry and fishing",2013-14,189886,Mizoram
+"Agriculture, forestry and fishing",2014-15,217010,Mizoram
+Crops,2011-12,75876,Mizoram
+Crops,2012-13,83792,Mizoram
+Crops,2013-14,101131,Mizoram
+Crops,2014-15,116609,Mizoram
+Livestock,2011-12,30336,Mizoram
+Livestock,2012-13,30843,Mizoram
+Livestock,2013-14,36832,Mizoram
+Livestock,2014-15,45590,Mizoram
+Forestry and logging,2011-12,38403,Mizoram
+Forestry and logging,2012-13,40972,Mizoram
+Forestry and logging,2013-14,45742,Mizoram
+Forestry and logging,2014-15,47763,Mizoram
+Fishing and aquaculture,2011-12,4853,Mizoram
+Fishing and aquaculture,2012-13,5746,Mizoram
+Fishing and aquaculture,2013-14,6181,Mizoram
+Fishing and aquaculture,2014-15,7048,Mizoram
+Mining and quarrying,2011-12,5073,Mizoram
+Mining and quarrying,2012-13,4009,Mizoram
+Mining and quarrying,2013-14,12491,Mizoram
+Mining and quarrying,2014-15,8588,Mizoram
+Manufacturing,2011-12,6578,Mizoram
+Manufacturing,2012-13,7358,Mizoram
+Manufacturing,2013-14,8329,Mizoram
+Manufacturing,2014-15,8479,Mizoram
+"Electricity, gas, water supply & other utility services",2011-12,51024,Mizoram
+"Electricity, gas, water supply & other utility services",2012-13,61109,Mizoram
+"Electricity, gas, water supply & other utility services",2013-14,101365,Mizoram
+"Electricity, gas, water supply & other utility services",2014-15,128365,Mizoram
+Construction,2011-12,89328,Mizoram
+Construction,2012-13,88507,Mizoram
+Construction,2013-14,113326,Mizoram
+Construction,2014-15,133228,Mizoram
+"Trade, repair, hotels and restaurants",2011-12,76482,Mizoram
+"Trade, repair, hotels and restaurants",2012-13,96173,Mizoram
+"Trade, repair, hotels and restaurants",2013-14,103080,Mizoram
+"Trade, repair, hotels and restaurants",2014-15,114315,Mizoram
+Trade & repair services,2011-12,74230,Mizoram
+Trade & repair services,2012-13,93698,Mizoram
+Trade & repair services,2013-14,100399,Mizoram
+Trade & repair services,2014-15,111324,Mizoram
+Hotels & restaurants,2011-12,2252,Mizoram
+Hotels & restaurants,2012-13,2475,Mizoram
+Hotels & restaurants,2013-14,2681,Mizoram
+Hotels & restaurants,2014-15,2991,Mizoram
+"Transport, storage, communication & services related to broadcasting",2011-12,31917,Mizoram
+"Transport, storage, communication & services related to broadcasting",2012-13,38990,Mizoram
+"Transport, storage, communication & services related to broadcasting",2013-14,46410,Mizoram
+"Transport, storage, communication & services related to broadcasting",2014-15,52587,Mizoram
+Railways,2011-12,30,Mizoram
+Railways,2012-13,35,Mizoram
+Railways,2013-14,33,Mizoram
+Railways,2014-15,32,Mizoram
+Road transport,2011-12,21376,Mizoram
+Road transport,2012-13,25853,Mizoram
+Road transport,2013-14,30356,Mizoram
+Road transport,2014-15,34684,Mizoram
+Water transport,2011-12,613,Mizoram
+Water transport,2012-13,836,Mizoram
+Water transport,2013-14,580,Mizoram
+Water transport,2014-15,331,Mizoram
+Air transport,2011-12,103,Mizoram
+Air transport,2012-13,191,Mizoram
+Air transport,2013-14,166,Mizoram
+Air transport,2014-15,144,Mizoram
+Services incidental to transport,2011-12,0,Mizoram
+Services incidental to transport,2012-13,0,Mizoram
+Services incidental to transport,2013-14,0,Mizoram
+Services incidental to transport,2014-15,0,Mizoram
+Storage,2011-12,0,Mizoram
+Storage,2012-13,0,Mizoram
+Storage,2013-14,0,Mizoram
+Storage,2014-15,0,Mizoram
+Communication & services related to broadcasting,2011-12,9795,Mizoram
+Communication & services related to broadcasting,2012-13,12075,Mizoram
+Communication & services related to broadcasting,2013-14,15275,Mizoram
+Communication & services related to broadcasting,2014-15,17395,Mizoram
+Financial services,2011-12,20053,Mizoram
+Financial services,2012-13,19581,Mizoram
+Financial services,2013-14,21502,Mizoram
+Financial services,2014-15,23168,Mizoram
+"Real estate, ownership of dwelling & professional services",2011-12,41471,Mizoram
+"Real estate, ownership of dwelling & professional services",2012-13,46544,Mizoram
+"Real estate, ownership of dwelling & professional services",2013-14,51036,Mizoram
+"Real estate, ownership of dwelling & professional services",2014-15,55068,Mizoram
+Public administration,2011-12,139286,Mizoram
+Public administration,2012-13,170816,Mizoram
+Public administration,2013-14,189585,Mizoram
+Public administration,2014-15,206259,Mizoram
+Other services,2011-12,132328,Mizoram
+Other services,2012-13,156875,Mizoram
+Other services,2013-14,176398,Mizoram
+Other services,2014-15,186222,Mizoram
+"Agriculture, forestry and fishing",2011-12,373363,Nagaland
+"Agriculture, forestry and fishing",2012-13,450256,Nagaland
+"Agriculture, forestry and fishing",2013-14,556609,Nagaland
+"Agriculture, forestry and fishing",2014-15,607897,Nagaland
+Crops,2011-12,204304,Nagaland
+Crops,2012-13,257414,Nagaland
+Crops,2013-14,340577,Nagaland
+Crops,2014-15,375825,Nagaland
+Livestock,2011-12,83147,Nagaland
+Livestock,2012-13,102361,Nagaland
+Livestock,2013-14,115312,Nagaland
+Livestock,2014-15,123800,Nagaland
+Forestry and logging,2011-12,79569,Nagaland
+Forestry and logging,2012-13,83502,Nagaland
+Forestry and logging,2013-14,93029,Nagaland
+Forestry and logging,2014-15,99802,Nagaland
+Fishing and aquaculture,2011-12,6344,Nagaland
+Fishing and aquaculture,2012-13,6978,Nagaland
+Fishing and aquaculture,2013-14,7690,Nagaland
+Fishing and aquaculture,2014-15,8470,Nagaland
+Mining and quarrying,2011-12,5660,Nagaland
+Mining and quarrying,2012-13,6621,Nagaland
+Mining and quarrying,2013-14,8005,Nagaland
+Mining and quarrying,2014-15,8280,Nagaland
+Manufacturing,2011-12,15122,Nagaland
+Manufacturing,2012-13,19400,Nagaland
+Manufacturing,2013-14,16831,Nagaland
+Manufacturing,2014-15,18346,Nagaland
+"Electricity, gas, water supply & other utility services",2011-12,29524,Nagaland
+"Electricity, gas, water supply & other utility services",2012-13,33796,Nagaland
+"Electricity, gas, water supply & other utility services",2013-14,34633,Nagaland
+"Electricity, gas, water supply & other utility services",2014-15,37944,Nagaland
+Construction,2011-12,105135,Nagaland
+Construction,2012-13,113744,Nagaland
+Construction,2013-14,117862,Nagaland
+Construction,2014-15,156072,Nagaland
+"Trade, repair, hotels and restaurants",2011-12,105152,Nagaland
+"Trade, repair, hotels and restaurants",2012-13,124506,Nagaland
+"Trade, repair, hotels and restaurants",2013-14,129374,Nagaland
+"Trade, repair, hotels and restaurants",2014-15,140781,Nagaland
+Trade & repair services,2011-12,100064,Nagaland
+Trade & repair services,2012-13,118795,Nagaland
+Trade & repair services,2013-14,123498,Nagaland
+Trade & repair services,2014-15,134174,Nagaland
+Hotels & restaurants,2011-12,5088,Nagaland
+Hotels & restaurants,2012-13,5711,Nagaland
+Hotels & restaurants,2013-14,5876,Nagaland
+Hotels & restaurants,2014-15,6607,Nagaland
+"Transport, storage, communication & services related to broadcasting",2011-12,57815,Nagaland
+"Transport, storage, communication & services related to broadcasting",2012-13,63547,Nagaland
+"Transport, storage, communication & services related to broadcasting",2013-14,71190,Nagaland
+"Transport, storage, communication & services related to broadcasting",2014-15,77521,Nagaland
+Railways,2011-12,376,Nagaland
+Railways,2012-13,449,Nagaland
+Railways,2013-14,285,Nagaland
+Railways,2014-15,336,Nagaland
+Road transport,2011-12,32072,Nagaland
+Road transport,2012-13,36447,Nagaland
+Road transport,2013-14,34417,Nagaland
+Road transport,2014-15,34548,Nagaland
+Water transport,2011-12,1319,Nagaland
+Water transport,2012-13,690,Nagaland
+Water transport,2013-14,466,Nagaland
+Water transport,2014-15,600,Nagaland
+Air transport,2011-12,937,Nagaland
+Air transport,2012-13,1744,Nagaland
+Air transport,2013-14,1515,Nagaland
+Air transport,2014-15,4153,Nagaland
+Services incidental to transport,2011-12,0,Nagaland
+Services incidental to transport,2012-13,0,Nagaland
+Services incidental to transport,2013-14,0,Nagaland
+Services incidental to transport,2014-15,0,Nagaland
+Storage,2011-12,63,Nagaland
+Storage,2012-13,97,Nagaland
+Storage,2013-14,80,Nagaland
+Storage,2014-15,89,Nagaland
+Communication & services related to broadcasting,2011-12,23049,Nagaland
+Communication & services related to broadcasting,2012-13,24120,Nagaland
+Communication & services related to broadcasting,2013-14,34427,Nagaland
+Communication & services related to broadcasting,2014-15,37794,Nagaland
+Financial services,2011-12,47701,Nagaland
+Financial services,2012-13,53134,Nagaland
+Financial services,2013-14,57079,Nagaland
+Financial services,2014-15,60393,Nagaland
+"Real estate, ownership of dwelling & professional services",2011-12,129296,Nagaland
+"Real estate, ownership of dwelling & professional services",2012-13,139146,Nagaland
+"Real estate, ownership of dwelling & professional services",2013-14,147986,Nagaland
+"Real estate, ownership of dwelling & professional services",2014-15,159651,Nagaland
+Public administration,2011-12,182188,Nagaland
+Public administration,2012-13,195575,Nagaland
+Public administration,2013-14,264724,Nagaland
+Public administration,2014-15,295424,Nagaland
+Other services,2011-12,155696,Nagaland
+Other services,2012-13,196428,Nagaland
+Other services,2013-14,237768,Nagaland
+Other services,2014-15,259186,Nagaland
+"Agriculture, forestry and fishing",2011-12,3899782,Odisha
+"Agriculture, forestry and fishing",2012-13,5319539,Odisha
+"Agriculture, forestry and fishing",2013-14,5545889,Odisha
+"Agriculture, forestry and fishing",2014-15,6422978,Odisha
+"Agriculture, forestry and fishing",2015-16,5923233,Odisha
+"Agriculture, forestry and fishing",2016-17,6944503,Odisha
+Crops,2011-12,2508626,Odisha
+Crops,2012-13,3688187,Odisha
+Crops,2013-14,3713058,Odisha
+Crops,2014-15,4382636,Odisha
+Crops,2015-16,3634239,Odisha
+Crops,2016-17,4435505,Odisha
+Livestock,2011-12,538480,Odisha
+Livestock,2012-13,649537,Odisha
+Livestock,2013-14,735973,Odisha
+Livestock,2014-15,788243,Odisha
+Livestock,2015-16,862852,Odisha
+Livestock,2016-17,982547,Odisha
+Forestry and logging,2011-12,584641,Odisha
+Forestry and logging,2012-13,635319,Odisha
+Forestry and logging,2013-14,730574,Odisha
+Forestry and logging,2014-15,791463,Odisha
+Forestry and logging,2015-16,852212,Odisha
+Forestry and logging,2016-17,871261,Odisha
+Fishing and aquaculture,2011-12,268035,Odisha
+Fishing and aquaculture,2012-13,346496,Odisha
+Fishing and aquaculture,2013-14,366283,Odisha
+Fishing and aquaculture,2014-15,460636,Odisha
+Fishing and aquaculture,2015-16,573930,Odisha
+Fishing and aquaculture,2016-17,655191,Odisha
+Mining and quarrying,2011-12,2648738,Odisha
+Mining and quarrying,2012-13,2663875,Odisha
+Mining and quarrying,2013-14,2861660,Odisha
+Mining and quarrying,2014-15,2586328,Odisha
+Mining and quarrying,2015-16,2536315,Odisha
+Mining and quarrying,2016-17,2565292,Odisha
+Manufacturing,2011-12,4116404,Odisha
+Manufacturing,2012-13,4212453,Odisha
+Manufacturing,2013-14,5168498,Odisha
+Manufacturing,2014-15,5754229,Odisha
+Manufacturing,2015-16,6084214,Odisha
+Manufacturing,2016-17,6369453,Odisha
+"Electricity, gas, water supply & other utility services",2011-12,498975,Odisha
+"Electricity, gas, water supply & other utility services",2012-13,621278,Odisha
+"Electricity, gas, water supply & other utility services",2013-14,703664,Odisha
+"Electricity, gas, water supply & other utility services",2014-15,833067,Odisha
+"Electricity, gas, water supply & other utility services",2015-16,954884,Odisha
+"Electricity, gas, water supply & other utility services",2016-17,1028710,Odisha
+Construction,2011-12,2059629,Odisha
+Construction,2012-13,2074154,Odisha
+Construction,2013-14,2314664,Odisha
+Construction,2014-15,2402396,Odisha
+Construction,2015-16,2595864,Odisha
+Construction,2016-17,2783835,Odisha
+"Trade, repair, hotels and restaurants",2011-12,2035854,Odisha
+"Trade, repair, hotels and restaurants",2012-13,2436044,Odisha
+"Trade, repair, hotels and restaurants",2013-14,2769620,Odisha
+"Trade, repair, hotels and restaurants",2014-15,3149555,Odisha
+"Trade, repair, hotels and restaurants",2015-16,3472581,Odisha
+"Trade, repair, hotels and restaurants",2016-17,3831417,Odisha
+Trade & repair services,2011-12,1838866,Odisha
+Trade & repair services,2012-13,2218946,Odisha
+Trade & repair services,2013-14,2533465,Odisha
+Trade & repair services,2014-15,2886789,Odisha
+Trade & repair services,2015-16,3186965,Odisha
+Trade & repair services,2016-17,3518412,Odisha
+Hotels & restaurants,2011-12,196989,Odisha
+Hotels & restaurants,2012-13,217098,Odisha
+Hotels & restaurants,2013-14,236155,Odisha
+Hotels & restaurants,2014-15,262766,Odisha
+Hotels & restaurants,2015-16,285617,Odisha
+Hotels & restaurants,2016-17,313005,Odisha
+"Transport, storage, communication & services related to broadcasting",2011-12,1347538,Odisha
+"Transport, storage, communication & services related to broadcasting",2012-13,1560857,Odisha
+"Transport, storage, communication & services related to broadcasting",2013-14,1771254,Odisha
+"Transport, storage, communication & services related to broadcasting",2014-15,2034016,Odisha
+"Transport, storage, communication & services related to broadcasting",2015-16,2288366,Odisha
+"Transport, storage, communication & services related to broadcasting",2016-17,2560875,Odisha
+Railways,2011-12,179466,Odisha
+Railways,2012-13,233719,Odisha
+Railways,2013-14,266785,Odisha
+Railways,2014-15,341494,Odisha
+Railways,2015-16,392608,Odisha
+Railways,2016-17,443594,Odisha
+Road transport,2011-12,693450,Odisha
+Road transport,2012-13,802859,Odisha
+Road transport,2013-14,892415,Odisha
+Road transport,2014-15,973144,Odisha
+Road transport,2015-16,1104364,Odisha
+Road transport,2016-17,1235376,Odisha
+Water transport,2011-12,41962,Odisha
+Water transport,2012-13,42597,Odisha
+Water transport,2013-14,42862,Odisha
+Water transport,2014-15,50349,Odisha
+Water transport,2015-16,50873,Odisha
+Water transport,2016-17,53726,Odisha
+Air transport,2011-12,3421,Odisha
+Air transport,2012-13,7232,Odisha
+Air transport,2013-14,5311,Odisha
+Air transport,2014-15,15354,Odisha
+Air transport,2015-16,16298,Odisha
+Air transport,2016-17,19684,Odisha
+Services incidental to transport,2011-12,80536,Odisha
+Services incidental to transport,2012-13,87715,Odisha
+Services incidental to transport,2013-14,98780,Odisha
+Services incidental to transport,2014-15,117469,Odisha
+Services incidental to transport,2015-16,121943,Odisha
+Services incidental to transport,2016-17,134360,Odisha
+Storage,2011-12,13967,Odisha
+Storage,2012-13,15384,Odisha
+Storage,2013-14,18233,Odisha
+Storage,2014-15,22675,Odisha
+Storage,2015-16,23106,Odisha
+Storage,2016-17,26398,Odisha
+Communication & services related to broadcasting,2011-12,334737,Odisha
+Communication & services related to broadcasting,2012-13,371354,Odisha
+Communication & services related to broadcasting,2013-14,446868,Odisha
+Communication & services related to broadcasting,2014-15,513531,Odisha
+Communication & services related to broadcasting,2015-16,579174,Odisha
+Communication & services related to broadcasting,2016-17,647737,Odisha
+Financial services,2011-12,796303,Odisha
+Financial services,2012-13,910354,Odisha
+Financial services,2013-14,962328,Odisha
+Financial services,2014-15,1065147,Odisha
+Financial services,2015-16,1192545,Odisha
+Financial services,2016-17,1269519,Odisha
+"Real estate, ownership of dwelling & professional services",2011-12,1707147,Odisha
+"Real estate, ownership of dwelling & professional services",2012-13,1901721,Odisha
+"Real estate, ownership of dwelling & professional services",2013-14,2146627,Odisha
+"Real estate, ownership of dwelling & professional services",2014-15,2348714,Odisha
+"Real estate, ownership of dwelling & professional services",2015-16,2558724,Odisha
+"Real estate, ownership of dwelling & professional services",2016-17,2830137,Odisha
+Public administration,2011-12,863077,Odisha
+Public administration,2012-13,980808,Odisha
+Public administration,2013-14,1390657,Odisha
+Public administration,2014-15,1318221,Odisha
+Public administration,2015-16,1333157,Odisha
+Public administration,2016-17,1489687,Odisha
+Other services,2011-12,1738239,Odisha
+Other services,2012-13,1892760,Odisha
+Other services,2013-14,1932774,Odisha
+Other services,2014-15,2340603,Odisha
+Other services,2015-16,2771634,Odisha
+Other services,2016-17,3197566,Odisha
+"Agriculture, forestry and fishing",2011-12,7816825,Punjab
+"Agriculture, forestry and fishing",2012-13,8373465,Punjab
+"Agriculture, forestry and fishing",2013-14,9030656,Punjab
+"Agriculture, forestry and fishing",2014-15,9285716,Punjab
+Crops,2011-12,5007937,Punjab
+Crops,2012-13,5314252,Punjab
+Crops,2013-14,5734357,Punjab
+Crops,2014-15,5690972,Punjab
+Livestock,2011-12,2034580,Punjab
+Livestock,2012-13,2222010,Punjab
+Livestock,2013-14,2445208,Punjab
+Livestock,2014-15,2638842,Punjab
+Forestry and logging,2011-12,715707,Punjab
+Forestry and logging,2012-13,769611,Punjab
+Forestry and logging,2013-14,758874,Punjab
+Forestry and logging,2014-15,848245,Punjab
+Fishing and aquaculture,2011-12,58601,Punjab
+Fishing and aquaculture,2012-13,67592,Punjab
+Fishing and aquaculture,2013-14,92217,Punjab
+Fishing and aquaculture,2014-15,107657,Punjab
+Mining and quarrying,2011-12,3682,Punjab
+Mining and quarrying,2012-13,2057,Punjab
+Mining and quarrying,2013-14,8707,Punjab
+Mining and quarrying,2014-15,10354,Punjab
+Manufacturing,2011-12,3750728,Punjab
+Manufacturing,2012-13,4067078,Punjab
+Manufacturing,2013-14,4419233,Punjab
+Manufacturing,2014-15,4790341,Punjab
+"Electricity, gas, water supply & other utility services",2011-12,714903,Punjab
+"Electricity, gas, water supply & other utility services",2012-13,816016,Punjab
+"Electricity, gas, water supply & other utility services",2013-14,856238,Punjab
+"Electricity, gas, water supply & other utility services",2014-15,911611,Punjab
+Construction,2011-12,1978423,Punjab
+Construction,2012-13,2054740,Punjab
+Construction,2013-14,2129015,Punjab
+Construction,2014-15,2202962,Punjab
+"Trade, repair, hotels and restaurants",2011-12,2532467,Punjab
+"Trade, repair, hotels and restaurants",2012-13,2993141,Punjab
+"Trade, repair, hotels and restaurants",2013-14,3752484,Punjab
+"Trade, repair, hotels and restaurants",2014-15,4419919,Punjab
+Trade & repair services,2011-12,2371685,Punjab
+Trade & repair services,2012-13,2815726,Punjab
+Trade & repair services,2013-14,3555016,Punjab
+Trade & repair services,2014-15,4201252,Punjab
+Hotels & restaurants,2011-12,160781,Punjab
+Hotels & restaurants,2012-13,177415,Punjab
+Hotels & restaurants,2013-14,197468,Punjab
+Hotels & restaurants,2014-15,218667,Punjab
+"Transport, storage, communication & services related to broadcasting",2011-12,1321324,Punjab
+"Transport, storage, communication & services related to broadcasting",2012-13,1540246,Punjab
+"Transport, storage, communication & services related to broadcasting",2013-14,1736148,Punjab
+"Transport, storage, communication & services related to broadcasting",2014-15,1951809,Punjab
+Railways,2011-12,190402,Punjab
+Railways,2012-13,228932,Punjab
+Railways,2013-14,215046,Punjab
+Railways,2014-15,233389,Punjab
+Road transport,2011-12,625062,Punjab
+Road transport,2012-13,708851,Punjab
+Road transport,2013-14,823463,Punjab
+Road transport,2014-15,928575,Punjab
+Water transport,2011-12,0,Punjab
+Water transport,2012-13,0,Punjab
+Water transport,2013-14,0,Punjab
+Water transport,2014-15,0,Punjab
+Air transport,2011-12,2464,Punjab
+Air transport,2012-13,4658,Punjab
+Air transport,2013-14,3967,Punjab
+Air transport,2014-15,4473,Punjab
+Services incidental to transport,2011-12,32147,Punjab
+Services incidental to transport,2012-13,36862,Punjab
+Services incidental to transport,2013-14,42676,Punjab
+Services incidental to transport,2014-15,48124,Punjab
+Storage,2011-12,48043,Punjab
+Storage,2012-13,91143,Punjab
+Storage,2013-14,64027,Punjab
+Storage,2014-15,76429,Punjab
+Communication & services related to broadcasting,2011-12,423205,Punjab
+Communication & services related to broadcasting,2012-13,469800,Punjab
+Communication & services related to broadcasting,2013-14,586969,Punjab
+Communication & services related to broadcasting,2014-15,660819,Punjab
+Financial services,2011-12,1464304,Punjab
+Financial services,2012-13,1655979,Punjab
+Financial services,2013-14,1836932,Punjab
+Financial services,2014-15,2057520,Punjab
+"Real estate, ownership of dwelling & professional services",2011-12,2274674,Punjab
+"Real estate, ownership of dwelling & professional services",2012-13,2574058,Punjab
+"Real estate, ownership of dwelling & professional services",2013-14,2849529,Punjab
+"Real estate, ownership of dwelling & professional services",2014-15,3142786,Punjab
+Public administration,2011-12,1269455,Punjab
+Public administration,2012-13,1486914,Punjab
+Public administration,2013-14,1629661,Punjab
+Public administration,2014-15,1842730,Punjab
+Other services,2011-12,2250644,Punjab
+Other services,2012-13,2520089,Punjab
+Other services,2013-14,2909626,Punjab
+Other services,2014-15,3303041,Punjab
+"Agriculture, forestry and fishing",2011-12,11910650,Rajasthan
+"Agriculture, forestry and fishing",2012-13,13572561,Rajasthan
+"Agriculture, forestry and fishing",2013-14,14418664,Rajasthan
+"Agriculture, forestry and fishing",2014-15,15044394,Rajasthan
+Crops,2011-12,7346942,Rajasthan
+Crops,2012-13,8389344,Rajasthan
+Crops,2013-14,8675414,Rajasthan
+Crops,2014-15,7673441,Rajasthan
+Livestock,2011-12,3113617,Rajasthan
+Livestock,2012-13,3523365,Rajasthan
+Livestock,2013-14,3962174,Rajasthan
+Livestock,2014-15,5356257,Rajasthan
+Forestry and logging,2011-12,1416986,Rajasthan
+Forestry and logging,2012-13,1622443,Rajasthan
+Forestry and logging,2013-14,1738606,Rajasthan
+Forestry and logging,2014-15,1956660,Rajasthan
+Fishing and aquaculture,2011-12,33105,Rajasthan
+Fishing and aquaculture,2012-13,37408,Rajasthan
+Fishing and aquaculture,2013-14,42470,Rajasthan
+Fishing and aquaculture,2014-15,58036,Rajasthan
+Mining and quarrying,2011-12,1841530,Rajasthan
+Mining and quarrying,2012-13,3395874,Rajasthan
+Mining and quarrying,2013-14,3716758,Rajasthan
+Mining and quarrying,2014-15,4069385,Rajasthan
+Manufacturing,2011-12,6666606,Rajasthan
+Manufacturing,2012-13,5627437,Rajasthan
+Manufacturing,2013-14,6015398,Rajasthan
+Manufacturing,2014-15,6552580,Rajasthan
+"Electricity, gas, water supply & other utility services",2011-12,763271,Rajasthan
+"Electricity, gas, water supply & other utility services",2012-13,1059921,Rajasthan
+"Electricity, gas, water supply & other utility services",2013-14,979452,Rajasthan
+"Electricity, gas, water supply & other utility services",2014-15,1122888,Rajasthan
+Construction,2011-12,4359171,Rajasthan
+Construction,2012-13,4568112,Rajasthan
+Construction,2013-14,4965979,Rajasthan
+Construction,2014-15,5353326,Rajasthan
+"Trade, repair, hotels and restaurants",2011-12,4374625,Rajasthan
+"Trade, repair, hotels and restaurants",2012-13,5241569,Rajasthan
+"Trade, repair, hotels and restaurants",2013-14,6201013,Rajasthan
+"Trade, repair, hotels and restaurants",2014-15,7297290,Rajasthan
+Trade & repair services,2011-12,4097894,Rajasthan
+Trade & repair services,2012-13,4943212,Rajasthan
+Trade & repair services,2013-14,5878264,Rajasthan
+Trade & repair services,2014-15,6942748,Rajasthan
+Hotels & restaurants,2011-12,276731,Rajasthan
+Hotels & restaurants,2012-13,298357,Rajasthan
+Hotels & restaurants,2013-14,322749,Rajasthan
+Hotels & restaurants,2014-15,354543,Rajasthan
+"Transport, storage, communication & services related to broadcasting",2011-12,2312809,Rajasthan
+"Transport, storage, communication & services related to broadcasting",2012-13,2748068,Rajasthan
+"Transport, storage, communication & services related to broadcasting",2013-14,3300711,Rajasthan
+"Transport, storage, communication & services related to broadcasting",2014-15,3814461,Rajasthan
+Railways,2011-12,240962,Rajasthan
+Railways,2012-13,336900,Rajasthan
+Railways,2013-14,401763,Rajasthan
+Railways,2014-15,464638,Rajasthan
+Road transport,2011-12,1410655,Rajasthan
+Road transport,2012-13,1636644,Rajasthan
+Road transport,2013-14,1906004,Rajasthan
+Road transport,2014-15,2121206,Rajasthan
+Water transport,2011-12,0,Rajasthan
+Water transport,2012-13,0,Rajasthan
+Water transport,2013-14,0,Rajasthan
+Water transport,2014-15,0,Rajasthan
+Air transport,2011-12,6698,Rajasthan
+Air transport,2012-13,12715,Rajasthan
+Air transport,2013-14,10561,Rajasthan
+Air transport,2014-15,13469,Rajasthan
+Services incidental to transport,2011-12,31956,Rajasthan
+Services incidental to transport,2012-13,37192,Rajasthan
+Services incidental to transport,2013-14,43300,Rajasthan
+Services incidental to transport,2014-15,47609,Rajasthan
+Storage,2011-12,10113,Rajasthan
+Storage,2012-13,11053,Rajasthan
+Storage,2013-14,13916,Rajasthan
+Storage,2014-15,16584,Rajasthan
+Communication & services related to broadcasting,2011-12,612425,Rajasthan
+Communication & services related to broadcasting,2012-13,713565,Rajasthan
+Communication & services related to broadcasting,2013-14,925166,Rajasthan
+Communication & services related to broadcasting,2014-15,1150955,Rajasthan
+Financial services,2011-12,1364042,Rajasthan
+Financial services,2012-13,1494592,Rajasthan
+Financial services,2013-14,1717985,Rajasthan
+Financial services,2014-15,1827413,Rajasthan
+"Real estate, ownership of dwelling & professional services",2011-12,4133721,Rajasthan
+"Real estate, ownership of dwelling & professional services",2012-13,4921093,Rajasthan
+"Real estate, ownership of dwelling & professional services",2013-14,5613758,Rajasthan
+"Real estate, ownership of dwelling & professional services",2014-15,6451997,Rajasthan
+Public administration,2011-12,1467926,Rajasthan
+Public administration,2012-13,1593519,Rajasthan
+Public administration,2013-14,2001087,Rajasthan
+Public administration,2014-15,2460364,Rajasthan
+Other services,2011-12,2481856,Rajasthan
+Other services,2012-13,2892295,Rajasthan
+Other services,2013-14,3357215,Rajasthan
+Other services,2014-15,4164287,Rajasthan
+"Agriculture, forestry and fishing",2011-12,90137,Sikkim
+"Agriculture, forestry and fishing",2012-13,108278,Sikkim
+"Agriculture, forestry and fishing",2013-14,122419,Sikkim
+"Agriculture, forestry and fishing",2014-15,137447,Sikkim
+"Agriculture, forestry and fishing",2015-16,159217,Sikkim
+Crops,2011-12,78207,Sikkim
+Crops,2012-13,94942,Sikkim
+Crops,2013-14,104440,Sikkim
+Crops,2014-15,114976,Sikkim
+Crops,2015-16,130878,Sikkim
+Livestock,2011-12,7627,Sikkim
+Livestock,2012-13,8747,Sikkim
+Livestock,2013-14,12986,Sikkim
+Livestock,2014-15,17338,Sikkim
+Livestock,2015-16,22925,Sikkim
+Forestry and logging,2011-12,4017,Sikkim
+Forestry and logging,2012-13,4137,Sikkim
+Forestry and logging,2013-14,4471,Sikkim
+Forestry and logging,2014-15,4529,Sikkim
+Forestry and logging,2015-16,4715,Sikkim
+Fishing and aquaculture,2011-12,287,Sikkim
+Fishing and aquaculture,2012-13,452,Sikkim
+Fishing and aquaculture,2013-14,523,Sikkim
+Fishing and aquaculture,2014-15,604,Sikkim
+Fishing and aquaculture,2015-16,699,Sikkim
+Mining and quarrying,2011-12,800,Sikkim
+Mining and quarrying,2012-13,896,Sikkim
+Mining and quarrying,2013-14,1238,Sikkim
+Mining and quarrying,2014-15,1329,Sikkim
+Mining and quarrying,2015-16,1584,Sikkim
+Manufacturing,2011-12,430623,Sikkim
+Manufacturing,2012-13,462562,Sikkim
+Manufacturing,2013-14,526856,Sikkim
+Manufacturing,2014-15,550697,Sikkim
+Manufacturing,2015-16,583579,Sikkim
+"Electricity, gas, water supply & other utility services",2011-12,186623,Sikkim
+"Electricity, gas, water supply & other utility services",2012-13,183906,Sikkim
+"Electricity, gas, water supply & other utility services",2013-14,184113,Sikkim
+"Electricity, gas, water supply & other utility services",2014-15,212499,Sikkim
+"Electricity, gas, water supply & other utility services",2015-16,222468,Sikkim
+Construction,2011-12,67095,Sikkim
+Construction,2012-13,67755,Sikkim
+Construction,2013-14,75613,Sikkim
+Construction,2014-15,82058,Sikkim
+Construction,2015-16,87830,Sikkim
+"Trade, repair, hotels and restaurants",2011-12,31446,Sikkim
+"Trade, repair, hotels and restaurants",2012-13,54858,Sikkim
+"Trade, repair, hotels and restaurants",2013-14,69953,Sikkim
+"Trade, repair, hotels and restaurants",2014-15,70568,Sikkim
+"Trade, repair, hotels and restaurants",2015-16,80587,Sikkim
+Trade & repair services,2011-12,26677,Sikkim
+Trade & repair services,2012-13,49790,Sikkim
+Trade & repair services,2013-14,64502,Sikkim
+Trade & repair services,2014-15,64624,Sikkim
+Trade & repair services,2015-16,73799,Sikkim
+Hotels & restaurants,2011-12,4769,Sikkim
+Hotels & restaurants,2012-13,5069,Sikkim
+Hotels & restaurants,2013-14,5450,Sikkim
+Hotels & restaurants,2014-15,5945,Sikkim
+Hotels & restaurants,2015-16,6789,Sikkim
+"Transport, storage, communication & services related to broadcasting",2011-12,28365,Sikkim
+"Transport, storage, communication & services related to broadcasting",2012-13,36020,Sikkim
+"Transport, storage, communication & services related to broadcasting",2013-14,42349,Sikkim
+"Transport, storage, communication & services related to broadcasting",2014-15,47347,Sikkim
+"Transport, storage, communication & services related to broadcasting",2015-16,56397,Sikkim
+Railways,2011-12,0,Sikkim
+Railways,2012-13,0,Sikkim
+Railways,2013-14,0,Sikkim
+Railways,2014-15,0,Sikkim
+Railways,2015-16,0,Sikkim
+Road transport,2011-12,21351,Sikkim
+Road transport,2012-13,28414,Sikkim
+Road transport,2013-14,31829,Sikkim
+Road transport,2014-15,35283,Sikkim
+Road transport,2015-16,41863,Sikkim
+Water transport,2011-12,0,Sikkim
+Water transport,2012-13,0,Sikkim
+Water transport,2013-14,0,Sikkim
+Water transport,2014-15,0,Sikkim
+Water transport,2015-16,0,Sikkim
+Air transport,2011-12,0,Sikkim
+Air transport,2012-13,0,Sikkim
+Air transport,2013-14,0,Sikkim
+Air transport,2014-15,0,Sikkim
+Air transport,2015-16,0,Sikkim
+Services incidental to transport,2011-12,0,Sikkim
+Services incidental to transport,2012-13,0,Sikkim
+Services incidental to transport,2013-14,0,Sikkim
+Services incidental to transport,2014-15,0,Sikkim
+Services incidental to transport,2015-16,0,Sikkim
+Storage,2011-12,0,Sikkim
+Storage,2012-13,0,Sikkim
+Storage,2013-14,0,Sikkim
+Storage,2014-15,0,Sikkim
+Storage,2015-16,0,Sikkim
+Communication & services related to broadcasting,2011-12,7014,Sikkim
+Communication & services related to broadcasting,2012-13,7606,Sikkim
+Communication & services related to broadcasting,2013-14,10520,Sikkim
+Communication & services related to broadcasting,2014-15,12064,Sikkim
+Communication & services related to broadcasting,2015-16,14534,Sikkim
+Financial services,2011-12,16521,Sikkim
+Financial services,2012-13,17692,Sikkim
+Financial services,2013-14,19924,Sikkim
+Financial services,2014-15,21079,Sikkim
+Financial services,2015-16,22871,Sikkim
+"Real estate, ownership of dwelling & professional services",2011-12,58394,Sikkim
+"Real estate, ownership of dwelling & professional services",2012-13,63935,Sikkim
+"Real estate, ownership of dwelling & professional services",2013-14,68702,Sikkim
+"Real estate, ownership of dwelling & professional services",2014-15,75330,Sikkim
+"Real estate, ownership of dwelling & professional services",2015-16,82007,Sikkim
+Public administration,2011-12,74027,Sikkim
+Public administration,2012-13,85145,Sikkim
+Public administration,2013-14,94138,Sikkim
+Public administration,2014-15,119514,Sikkim
+Public administration,2015-16,140444,Sikkim
+Other services,2011-12,105179,Sikkim
+Other services,2012-13,115696,Sikkim
+Other services,2013-14,126386,Sikkim
+Other services,2014-15,149265,Sikkim
+Other services,2015-16,167844,Sikkim
+"Agriculture, forestry and fishing",2011-12,8773221,Tamil_Nadu
+"Agriculture, forestry and fishing",2012-13,8439666,Tamil_Nadu
+"Agriculture, forestry and fishing",2013-14,10867130,Tamil_Nadu
+"Agriculture, forestry and fishing",2014-15,13064238,Tamil_Nadu
+"Agriculture, forestry and fishing",2015-16,13143892,Tamil_Nadu
+"Agriculture, forestry and fishing",2016-17,13707951,Tamil_Nadu
+Crops,2011-12,5375639,Tamil_Nadu
+Crops,2012-13,4696306,Tamil_Nadu
+Crops,2013-14,6294046,Tamil_Nadu
+Crops,2014-15,7297820,Tamil_Nadu
+Crops,2015-16,7280028,Tamil_Nadu
+Crops,2016-17,7557588,Tamil_Nadu
+Livestock,2011-12,2617944,Tamil_Nadu
+Livestock,2012-13,2972027,Tamil_Nadu
+Livestock,2013-14,3738883,Tamil_Nadu
+Livestock,2014-15,4693361,Tamil_Nadu
+Livestock,2015-16,4765971,Tamil_Nadu
+Livestock,2016-17,4995138,Tamil_Nadu
+Forestry and logging,2011-12,355528,Tamil_Nadu
+Forestry and logging,2012-13,338087,Tamil_Nadu
+Forestry and logging,2013-14,399307,Tamil_Nadu
+Forestry and logging,2014-15,392705,Tamil_Nadu
+Forestry and logging,2015-16,415952,Tamil_Nadu
+Forestry and logging,2016-17,434416,Tamil_Nadu
+Fishing and aquaculture,2011-12,424110,Tamil_Nadu
+Fishing and aquaculture,2012-13,433247,Tamil_Nadu
+Fishing and aquaculture,2013-14,434895,Tamil_Nadu
+Fishing and aquaculture,2014-15,680352,Tamil_Nadu
+Fishing and aquaculture,2015-16,681941,Tamil_Nadu
+Fishing and aquaculture,2016-17,720809,Tamil_Nadu
+Mining and quarrying,2011-12,326843,Tamil_Nadu
+Mining and quarrying,2012-13,317889,Tamil_Nadu
+Mining and quarrying,2013-14,318743,Tamil_Nadu
+Mining and quarrying,2014-15,265536,Tamil_Nadu
+Mining and quarrying,2015-16,261638,Tamil_Nadu
+Mining and quarrying,2016-17,276321,Tamil_Nadu
+Manufacturing,2011-12,15176801,Tamil_Nadu
+Manufacturing,2012-13,17826090,Tamil_Nadu
+Manufacturing,2013-14,18137892,Tamil_Nadu
+Manufacturing,2014-15,18914794,Tamil_Nadu
+Manufacturing,2015-16,20142365,Tamil_Nadu
+Manufacturing,2016-17,21026591,Tamil_Nadu
+"Electricity, gas, water supply & other utility services",2011-12,795604,Tamil_Nadu
+"Electricity, gas, water supply & other utility services",2012-13,1267240,Tamil_Nadu
+"Electricity, gas, water supply & other utility services",2013-14,1303592,Tamil_Nadu
+"Electricity, gas, water supply & other utility services",2014-15,1710379,Tamil_Nadu
+"Electricity, gas, water supply & other utility services",2015-16,2073838,Tamil_Nadu
+"Electricity, gas, water supply & other utility services",2016-17,2336516,Tamil_Nadu
+Construction,2011-12,9247221,Tamil_Nadu
+Construction,2012-13,10235650,Tamil_Nadu
+Construction,2013-14,11418102,Tamil_Nadu
+Construction,2014-15,12216718,Tamil_Nadu
+Construction,2015-16,13395808,Tamil_Nadu
+Construction,2016-17,14533745,Tamil_Nadu
+"Trade, repair, hotels and restaurants",2011-12,7930219,Tamil_Nadu
+"Trade, repair, hotels and restaurants",2012-13,9691628,Tamil_Nadu
+"Trade, repair, hotels and restaurants",2013-14,11344765,Tamil_Nadu
+"Trade, repair, hotels and restaurants",2014-15,12895842,Tamil_Nadu
+"Trade, repair, hotels and restaurants",2015-16,14567728,Tamil_Nadu
+"Trade, repair, hotels and restaurants",2016-17,15372472,Tamil_Nadu
+Trade & repair services,2011-12,6893400,Tamil_Nadu
+Trade & repair services,2012-13,8505165,Tamil_Nadu
+Trade & repair services,2013-14,9967754,Tamil_Nadu
+Trade & repair services,2014-15,11252588,Tamil_Nadu
+Trade & repair services,2015-16,12593468,Tamil_Nadu
+Trade & repair services,2016-17,13171329,Tamil_Nadu
+Hotels & restaurants,2011-12,1036819,Tamil_Nadu
+Hotels & restaurants,2012-13,1186463,Tamil_Nadu
+Hotels & restaurants,2013-14,1377011,Tamil_Nadu
+Hotels & restaurants,2014-15,1643253,Tamil_Nadu
+Hotels & restaurants,2015-16,1974260,Tamil_Nadu
+Hotels & restaurants,2016-17,2201143,Tamil_Nadu
+"Transport, storage, communication & services related to broadcasting",2011-12,5337904,Tamil_Nadu
+"Transport, storage, communication & services related to broadcasting",2012-13,6145938,Tamil_Nadu
+"Transport, storage, communication & services related to broadcasting",2013-14,6726593,Tamil_Nadu
+"Transport, storage, communication & services related to broadcasting",2014-15,7188320,Tamil_Nadu
+"Transport, storage, communication & services related to broadcasting",2015-16,8008838,Tamil_Nadu
+"Transport, storage, communication & services related to broadcasting",2016-17,8780319,Tamil_Nadu
+Railways,2011-12,316026,Tamil_Nadu
+Railways,2012-13,370416,Tamil_Nadu
+Railways,2013-14,401984,Tamil_Nadu
+Railways,2014-15,468553,Tamil_Nadu
+Railways,2015-16,548315,Tamil_Nadu
+Railways,2016-17,581276,Tamil_Nadu
+Road transport,2011-12,2866546,Tamil_Nadu
+Road transport,2012-13,3309408,Tamil_Nadu
+Road transport,2013-14,3581990,Tamil_Nadu
+Road transport,2014-15,3660994,Tamil_Nadu
+Road transport,2015-16,3851117,Tamil_Nadu
+Road transport,2016-17,3978671,Tamil_Nadu
+Water transport,2011-12,66379,Tamil_Nadu
+Water transport,2012-13,62574,Tamil_Nadu
+Water transport,2013-14,59573,Tamil_Nadu
+Water transport,2014-15,70414,Tamil_Nadu
+Water transport,2015-16,83962,Tamil_Nadu
+Water transport,2016-17,100526,Tamil_Nadu
+Air transport,2011-12,43317,Tamil_Nadu
+Air transport,2012-13,80632,Tamil_Nadu
+Air transport,2013-14,62921,Tamil_Nadu
+Air transport,2014-15,180836,Tamil_Nadu
+Air transport,2015-16,339750,Tamil_Nadu
+Air transport,2016-17,492323,Tamil_Nadu
+Services incidental to transport*,2011-12,822307,Tamil_Nadu
+Services incidental to transport*,2012-13,951481,Tamil_Nadu
+Services incidental to transport*,2013-14,939475,Tamil_Nadu
+Services incidental to transport*,2014-15,864407,Tamil_Nadu
+Services incidental to transport*,2015-16,980474,Tamil_Nadu
+Services incidental to transport*,2016-17,1113679,Tamil_Nadu
+Storage,2011-12,26961,Tamil_Nadu
+Storage,2012-13,28773,Tamil_Nadu
+Storage,2013-14,33162,Tamil_Nadu
+Storage,2014-15,39834,Tamil_Nadu
+Storage,2015-16,48814,Tamil_Nadu
+Storage,2016-17,60273,Tamil_Nadu
+Communication & services related to broadcasting,2011-12,1196369,Tamil_Nadu
+Communication & services related to broadcasting,2012-13,1342653,Tamil_Nadu
+Communication & services related to broadcasting,2013-14,1647489,Tamil_Nadu
+Communication & services related to broadcasting,2014-15,1903283,Tamil_Nadu
+Communication & services related to broadcasting,2015-16,2156406,Tamil_Nadu
+Communication & services related to broadcasting,2016-17,2453571,Tamil_Nadu
+Financial services,2011-12,4019599,Tamil_Nadu
+Financial services,2012-13,4466210,Tamil_Nadu
+Financial services,2013-14,5088062,Tamil_Nadu
+Financial services,2014-15,5598498,Tamil_Nadu
+Financial services,2015-16,5990393,Tamil_Nadu
+Financial services,2016-17,6849037,Tamil_Nadu
+"Real estate, ownership of dwelling & professional services",2011-12,10253371,Tamil_Nadu
+"Real estate, ownership of dwelling & professional services",2012-13,12096018,Tamil_Nadu
+"Real estate, ownership of dwelling & professional services",2013-14,14291455,Tamil_Nadu
+"Real estate, ownership of dwelling & professional services",2014-15,16830213,Tamil_Nadu
+"Real estate, ownership of dwelling & professional services",2015-16,19831868,Tamil_Nadu
+"Real estate, ownership of dwelling & professional services",2016-17,23022995,Tamil_Nadu
+Public administration,2011-12,2598408,Tamil_Nadu
+Public administration,2012-13,2572501,Tamil_Nadu
+Public administration,2013-14,2962600,Tamil_Nadu
+Public administration,2014-15,3400800,Tamil_Nadu
+Public administration,2015-16,3728920,Tamil_Nadu
+Public administration,2016-17,4561182,Tamil_Nadu
+Other services,2011-12,4842953,Tamil_Nadu
+Other services,2012-13,5483888,Tamil_Nadu
+Other services,2013-14,6378431,Tamil_Nadu
+Other services,2014-15,7430115,Tamil_Nadu
+Other services,2015-16,8569379,Tamil_Nadu
+Other services,2016-17,9858347,Tamil_Nadu
+"Agriculture, forestry and fishing",2011-12,5461488,Telangana
+"Agriculture, forestry and fishing",2012-13,6726490,Telangana
+"Agriculture, forestry and fishing",2013-14,7723553,Telangana
+"Agriculture, forestry and fishing",2014-15,7591501,Telangana
+"Agriculture, forestry and fishing",2015-16,7755281,Telangana
+"Agriculture, forestry and fishing",2016-17,9216180,Telangana
+Crops,2011-12,3236819,Telangana
+Crops,2012-13,4057031,Telangana
+Crops,2013-14,4715888,Telangana
+Crops,2014-15,4162493,Telangana
+Crops,2015-16,3867873,Telangana
+Crops,2016-17,4885862,Telangana
+Livestock,2011-12,1884801,Telangana
+Livestock,2012-13,2278539,Telangana
+Livestock,2013-14,2539923,Telangana
+Livestock,2014-15,2951299,Telangana
+Livestock,2015-16,3436285,Telangana
+Livestock,2016-17,3852198,Telangana
+Forestry and logging,2011-12,191725,Telangana
+Forestry and logging,2012-13,207059,Telangana
+Forestry and logging,2013-14,218021,Telangana
+Forestry and logging,2014-15,210741,Telangana
+Forestry and logging,2015-16,213338,Telangana
+Forestry and logging,2016-17,210850,Telangana
+Fishing and aquaculture,2011-12,148143,Telangana
+Fishing and aquaculture,2012-13,183861,Telangana
+Fishing and aquaculture,2013-14,249721,Telangana
+Fishing and aquaculture,2014-15,266968,Telangana
+Fishing and aquaculture,2015-16,237785,Telangana
+Fishing and aquaculture,2016-17,267270,Telangana
+Mining and quarrying,2011-12,1106109,Telangana
+Mining and quarrying,2012-13,1268476,Telangana
+Mining and quarrying,2013-14,1238555,Telangana
+Mining and quarrying,2014-15,1541853,Telangana
+Mining and quarrying,2015-16,1723849,Telangana
+Mining and quarrying,2016-17,1889245,Telangana
+Manufacturing,2011-12,6215158,Telangana
+Manufacturing,2012-13,5543115,Telangana
+Manufacturing,2013-14,5714839,Telangana
+Manufacturing,2014-15,6353711,Telangana
+Manufacturing,2015-16,6677750,Telangana
+Manufacturing,2016-17,7323500,Telangana
+"Electricity, gas, water supply & other utility services",2011-12,783505,Telangana
+"Electricity, gas, water supply & other utility services",2012-13,589605,Telangana
+"Electricity, gas, water supply & other utility services",2013-14,870938,Telangana
+"Electricity, gas, water supply & other utility services",2014-15,716266,Telangana
+"Electricity, gas, water supply & other utility services",2015-16,661426,Telangana
+"Electricity, gas, water supply & other utility services",2016-17,666068,Telangana
+Construction,2011-12,2278975,Telangana
+Construction,2012-13,2357786,Telangana
+Construction,2013-14,2458242,Telangana
+Construction,2014-15,2854024,Telangana
+Construction,2015-16,3030401,Telangana
+Construction,2016-17,3395388,Telangana
+"Trade, repair, hotels and restaurants",2011-12,3747813,Telangana
+"Trade, repair, hotels and restaurants",2012-13,4454669,Telangana
+"Trade, repair, hotels and restaurants",2013-14,5127458,Telangana
+"Trade, repair, hotels and restaurants",2014-15,6494607,Telangana
+"Trade, repair, hotels and restaurants",2015-16,7481535,Telangana
+"Trade, repair, hotels and restaurants",2016-17,8786776,Telangana
+Trade & repair services,2011-12,3048685,Telangana
+Trade & repair services,2012-13,3647224,Telangana
+Trade & repair services,2013-14,4456270,Telangana
+Trade & repair services,2014-15,5724128,Telangana
+Trade & repair services,2015-16,6634722,Telangana
+Trade & repair services,2016-17,7841875,Telangana
+Hotels & restaurants,2011-12,699128,Telangana
+Hotels & restaurants,2012-13,807445,Telangana
+Hotels & restaurants,2013-14,671188,Telangana
+Hotels & restaurants,2014-15,770479,Telangana
+Hotels & restaurants,2015-16,846813,Telangana
+Hotels & restaurants,2016-17,944901,Telangana
+"Transport, storage, communication & services related to broadcasting",2011-12,2531735,Telangana
+"Transport, storage, communication & services related to broadcasting",2012-13,2987019,Telangana
+"Transport, storage, communication & services related to broadcasting",2013-14,3229811,Telangana
+"Transport, storage, communication & services related to broadcasting",2014-15,3604741,Telangana
+"Transport, storage, communication & services related to broadcasting",2015-16,4182002,Telangana
+"Transport, storage, communication & services related to broadcasting",2016-17,4895352,Telangana
+Railways,2011-12,161363,Telangana
+Railways,2012-13,175620,Telangana
+Railways,2013-14,193048,Telangana
+Railways,2014-15,199686,Telangana
+Railways,2015-16,205940,Telangana
+Railways,2016-17,208823,Telangana
+Road transport,2011-12,1461278,Telangana
+Road transport,2012-13,1715757,Telangana
+Road transport,2013-14,1869092,Telangana
+Road transport,2014-15,2055658,Telangana
+Road transport,2015-16,2418848,Telangana
+Road transport,2016-17,2863507,Telangana
+Water transport,2011-12,0,Telangana
+Water transport,2012-13,0,Telangana
+Water transport,2013-14,0,Telangana
+Water transport,2014-15,0,Telangana
+Water transport,2015-16,0,Telangana
+Water transport,2016-17,0,Telangana
+Air transport,2011-12,23258,Telangana
+Air transport,2012-13,43171,Telangana
+Air transport,2013-14,34506,Telangana
+Air transport,2014-15,120691,Telangana
+Air transport,2015-16,158647,Telangana
+Air transport,2016-17,217072,Telangana
+Services incidental to transport,2011-12,371763,Telangana
+Services incidental to transport,2012-13,484436,Telangana
+Services incidental to transport,2013-14,447736,Telangana
+Services incidental to transport,2014-15,454909,Telangana
+Services incidental to transport,2015-16,513777,Telangana
+Services incidental to transport,2016-17,593688,Telangana
+Storage,2011-12,17531,Telangana
+Storage,2012-13,15328,Telangana
+Storage,2013-14,17085,Telangana
+Storage,2014-15,19805,Telangana
+Storage,2015-16,24206,Telangana
+Storage,2016-17,28510,Telangana
+Communication & services related to broadcasting,2011-12,496542,Telangana
+Communication & services related to broadcasting,2012-13,552707,Telangana
+Communication & services related to broadcasting,2013-14,668344,Telangana
+Communication & services related to broadcasting,2014-15,753992,Telangana
+Communication & services related to broadcasting,2015-16,860584,Telangana
+Communication & services related to broadcasting,2016-17,983752,Telangana
+Financial services,2011-12,2126507,Telangana
+Financial services,2012-13,2363216,Telangana
+Financial services,2013-14,2659553,Telangana
+Financial services,2014-15,3023729,Telangana
+Financial services,2015-16,3312302,Telangana
+Financial services,2016-17,3700835,Telangana
+"Real estate, ownership of dwelling & professional services",2011-12,5551356,Telangana
+"Real estate, ownership of dwelling & professional services",2012-13,6924491,Telangana
+"Real estate, ownership of dwelling & professional services",2013-14,8230664,Telangana
+"Real estate, ownership of dwelling & professional services",2014-15,9478839,Telangana
+"Real estate, ownership of dwelling & professional services",2015-16,10903589,Telangana
+"Real estate, ownership of dwelling & professional services",2016-17,12506017,Telangana
+Public administration,2011-12,1131292,Telangana
+Public administration,2012-13,1265964,Telangana
+Public administration,2013-14,1433832,Telangana
+Public administration,2014-15,1711265,Telangana
+Public administration,2015-16,2061873,Telangana
+Public administration,2016-17,2244545,Telangana
+Other services,2011-12,2670927,Telangana
+Other services,2012-13,3035381,Telangana
+Other services,2013-14,3546015,Telangana
+Other services,2014-15,4158229,Telangana
+Other services,2015-16,4848041,Telangana
+Other services,2016-17,5442671,Telangana
+"Agriculture, forestry and fishing",2011-12,511201,Tripura
+"Agriculture, forestry and fishing",2012-13,567087,Tripura
+"Agriculture, forestry and fishing",2013-14,702979,Tripura
+"Agriculture, forestry and fishing",2014-15,799825,Tripura
+Crops,2011-12,318959,Tripura
+Crops,2012-13,339064,Tripura
+Crops,2013-14,375086,Tripura
+Crops,2014-15,397591,Tripura
+Livestock,2011-12,33664,Tripura
+Livestock,2012-13,42223,Tripura
+Livestock,2013-14,70541,Tripura
+Livestock,2014-15,88176,Tripura
+Forestry and logging,2011-12,109763,Tripura
+Forestry and logging,2012-13,119262,Tripura
+Forestry and logging,2013-14,133116,Tripura
+Forestry and logging,2014-15,145096,Tripura
+Fishing and aquaculture,2011-12,48815,Tripura
+Fishing and aquaculture,2012-13,66538,Tripura
+Fishing and aquaculture,2013-14,124236,Tripura
+Fishing and aquaculture,2014-15,168961,Tripura
+Mining and quarrying,2011-12,118123,Tripura
+Mining and quarrying,2012-13,128413,Tripura
+Mining and quarrying,2013-14,130634,Tripura
+Mining and quarrying,2014-15,142391,Tripura
+Manufacturing,2011-12,72651,Tripura
+Manufacturing,2012-13,117529,Tripura
+Manufacturing,2013-14,125869,Tripura
+Manufacturing,2014-15,228625,Tripura
+"Electricity, gas, water supply & other utility services",2011-12,44297,Tripura
+"Electricity, gas, water supply & other utility services",2012-13,55855,Tripura
+"Electricity, gas, water supply & other utility services",2013-14,55022,Tripura
+"Electricity, gas, water supply & other utility services",2014-15,77870,Tripura
+Construction,2011-12,148327,Tripura
+Construction,2012-13,151630,Tripura
+Construction,2013-14,174411,Tripura
+Construction,2014-15,177899,Tripura
+"Trade, repair, hotels and restaurants",2011-12,226839,Tripura
+"Trade, repair, hotels and restaurants",2012-13,265292,Tripura
+"Trade, repair, hotels and restaurants",2013-14,333695,Tripura
+"Trade, repair, hotels and restaurants",2014-15,390423,Tripura
+Trade & repair services,2011-12,226839,Tripura
+Trade & repair services,2012-13,265292,Tripura
+Trade & repair services,2013-14,333695,Tripura
+Trade & repair services,2014-15,390423,Tripura
+Hotels & restaurants,2011-12,NA,Tripura
+Hotels & restaurants,2012-13,NA,Tripura
+Hotels & restaurants,2013-14,NA,Tripura
+Hotels & restaurants,2014-15,NA,Tripura
+"Transport, storage, communication & services related to broadcasting",2011-12,84316,Tripura
+"Transport, storage, communication & services related to broadcasting",2012-13,108895,Tripura
+"Transport, storage, communication & services related to broadcasting",2013-14,121265,Tripura
+"Transport, storage, communication & services related to broadcasting",2014-15,155956,Tripura
+Railways,2011-12,224,Tripura
+Railways,2012-13,261,Tripura
+Railways,2013-14,261,Tripura
+Railways,2014-15,305,Tripura
+Road transport,2011-12,NA,Tripura
+Road transport,2012-13,NA,Tripura
+Road transport,2013-14,NA,Tripura
+Road transport,2014-15,NA,Tripura
+Water transport,2011-12,NA,Tripura
+Water transport,2012-13,NA,Tripura
+Water transport,2013-14,NA,Tripura
+Water transport,2014-15,NA,Tripura
+Air transport,2011-12,NA,Tripura
+Air transport,2012-13,NA,Tripura
+Air transport,2013-14,NA,Tripura
+Air transport,2014-15,NA,Tripura
+Services incidental to transport*,2011-12,46677,Tripura
+Services incidental to transport*,2012-13,63696,Tripura
+Services incidental to transport*,2013-14,65236,Tripura
+Services incidental to transport*,2014-15,88721,Tripura
+Storage,2011-12,151,Tripura
+Storage,2012-13,187,Tripura
+Storage,2013-14,205,Tripura
+Storage,2014-15,254,Tripura
+Communication & services related to broadcasting,2011-12,37264,Tripura
+Communication & services related to broadcasting,2012-13,44751,Tripura
+Communication & services related to broadcasting,2013-14,55563,Tripura
+Communication & services related to broadcasting,2014-15,66676,Tripura
+Financial services,2011-12,57103,Tripura
+Financial services,2012-13,67963,Tripura
+Financial services,2013-14,72348,Tripura
+Financial services,2014-15,86094,Tripura
+"Real estate, ownership of dwelling & professional services",2011-12,119572,Tripura
+"Real estate, ownership of dwelling & professional services",2012-13,135500,Tripura
+"Real estate, ownership of dwelling & professional services",2013-14,168765,Tripura
+"Real estate, ownership of dwelling & professional services",2014-15,190704,Tripura
+Public administration,2011-12,241678,Tripura
+Public administration,2012-13,270564,Tripura
+Public administration,2013-14,302004,Tripura
+Public administration,2014-15,338244,Tripura
+Other services,2011-12,255446,Tripura
+Other services,2012-13,260210,Tripura
+Other services,2013-14,316948,Tripura
+Other services,2014-15,323287,Tripura
+"Agriculture, forestry and fishing",2011-12,18324305,Uttar_Pradesh
+"Agriculture, forestry and fishing",2012-13,21306497,Uttar_Pradesh
+"Agriculture, forestry and fishing",2013-14,23813650,Uttar_Pradesh
+"Agriculture, forestry and fishing",2014-15,25097754,Uttar_Pradesh
+"Agriculture, forestry and fishing",2015-16,28212490,Uttar_Pradesh
+Crops,2011-12,12415418,Uttar_Pradesh
+Crops,2012-13,14951864,Uttar_Pradesh
+Crops,2013-14,16249998,Uttar_Pradesh
+Crops,2014-15,16215212,Uttar_Pradesh
+Crops,2015-16,18242114,Uttar_Pradesh
+Livestock,2011-12,4382274,Uttar_Pradesh
+Livestock,2012-13,4687592,Uttar_Pradesh
+Livestock,2013-14,5908922,Uttar_Pradesh
+Livestock,2014-15,7096876,Uttar_Pradesh
+Livestock,2015-16,8233666,Uttar_Pradesh
+Forestry and logging,2011-12,1249516,Uttar_Pradesh
+Forestry and logging,2012-13,1358583,Uttar_Pradesh
+Forestry and logging,2013-14,1312393,Uttar_Pradesh
+Forestry and logging,2014-15,1404936,Uttar_Pradesh
+Forestry and logging,2015-16,1330196,Uttar_Pradesh
+Fishing and aquaculture,2011-12,277097,Uttar_Pradesh
+Fishing and aquaculture,2012-13,308458,Uttar_Pradesh
+Fishing and aquaculture,2013-14,342337,Uttar_Pradesh
+Fishing and aquaculture,2014-15,380730,Uttar_Pradesh
+Fishing and aquaculture,2015-16,406514,Uttar_Pradesh
+Mining and quarrying,2011-12,653517,Uttar_Pradesh
+Mining and quarrying,2012-13,688795,Uttar_Pradesh
+Mining and quarrying,2013-14,868920,Uttar_Pradesh
+Mining and quarrying,2014-15,901501,Uttar_Pradesh
+Mining and quarrying,2015-16,783973,Uttar_Pradesh
+Manufacturing,2011-12,8763582,Uttar_Pradesh
+Manufacturing,2012-13,9522404,Uttar_Pradesh
+Manufacturing,2013-14,11377466,Uttar_Pradesh
+Manufacturing,2014-15,12261649,Uttar_Pradesh
+Manufacturing,2015-16,13604096,Uttar_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,926846,Uttar_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,1228906,Uttar_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,1663539,Uttar_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,2030625,Uttar_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,2152779,Uttar_Pradesh
+Construction,2011-12,8487701,Uttar_Pradesh
+Construction,2012-13,9320623,Uttar_Pradesh
+Construction,2013-14,10048635,Uttar_Pradesh
+Construction,2014-15,11256450,Uttar_Pradesh
+Construction,2015-16,12225841,Uttar_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,6946589,Uttar_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,7472500,Uttar_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,8713200,Uttar_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,9437243,Uttar_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,10603082,Uttar_Pradesh
+Trade & repair services,2011-12,6162196,Uttar_Pradesh
+Trade & repair services,2012-13,6641138,Uttar_Pradesh
+Trade & repair services,2013-14,7723813,Uttar_Pradesh
+Trade & repair services,2014-15,8476139,Uttar_Pradesh
+Trade & repair services,2015-16,9523247,Uttar_Pradesh
+Hotels & restaurants,2011-12,784393,Uttar_Pradesh
+Hotels & restaurants,2012-13,831362,Uttar_Pradesh
+Hotels & restaurants,2013-14,989387,Uttar_Pradesh
+Hotels & restaurants,2014-15,961104,Uttar_Pradesh
+Hotels & restaurants,2015-16,1079835,Uttar_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,4048142,Uttar_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,4919874,Uttar_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,6102126,Uttar_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,7404509,Uttar_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,8079924,Uttar_Pradesh
+Railways,2011-12,1066108,Uttar_Pradesh
+Railways,2012-13,1227911,Uttar_Pradesh
+Railways,2013-14,1398344,Uttar_Pradesh
+Railways,2014-15,1618742,Uttar_Pradesh
+Railways,2015-16,1534567,Uttar_Pradesh
+Road transport,2011-12,1976901,Uttar_Pradesh
+Road transport,2012-13,2477770,Uttar_Pradesh
+Road transport,2013-14,2885934,Uttar_Pradesh
+Road transport,2014-15,3645747,Uttar_Pradesh
+Road transport,2015-16,4269516,Uttar_Pradesh
+Water transport,2011-12,1496,Uttar_Pradesh
+Water transport,2012-13,783,Uttar_Pradesh
+Water transport,2013-14,528,Uttar_Pradesh
+Water transport,2014-15,681,Uttar_Pradesh
+Water transport,2015-16,798,Uttar_Pradesh
+Air transport,2011-12,7630,Uttar_Pradesh
+Air transport,2012-13,14732,Uttar_Pradesh
+Air transport,2013-14,15692,Uttar_Pradesh
+Air transport,2014-15,36582,Uttar_Pradesh
+Air transport,2015-16,42841,Uttar_Pradesh
+Services incidental to transport,2011-12,9842,Uttar_Pradesh
+Services incidental to transport,2012-13,12019,Uttar_Pradesh
+Services incidental to transport,2013-14,14738,Uttar_Pradesh
+Services incidental to transport,2014-15,16323,Uttar_Pradesh
+Services incidental to transport,2015-16,19116,Uttar_Pradesh
+Storage,2011-12,111006,Uttar_Pradesh
+Storage,2012-13,122608,Uttar_Pradesh
+Storage,2013-14,137454,Uttar_Pradesh
+Storage,2014-15,171696,Uttar_Pradesh
+Storage,2015-16,196868,Uttar_Pradesh
+Communication & services related to broadcasting,2011-12,875159,Uttar_Pradesh
+Communication & services related to broadcasting,2012-13,1064051,Uttar_Pradesh
+Communication & services related to broadcasting,2013-14,1649436,Uttar_Pradesh
+Communication & services related to broadcasting,2014-15,1914737,Uttar_Pradesh
+Communication & services related to broadcasting,2015-16,2016218,Uttar_Pradesh
+Financial services,2011-12,2518230,Uttar_Pradesh
+Financial services,2012-13,2862582,Uttar_Pradesh
+Financial services,2013-14,3133376,Uttar_Pradesh
+Financial services,2014-15,3392275,Uttar_Pradesh
+Financial services,2015-16,3605988,Uttar_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,9745417,Uttar_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,11527819,Uttar_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,13018473,Uttar_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,14548185,Uttar_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,16038848,Uttar_Pradesh
+Public administration,2011-12,4234830,Uttar_Pradesh
+Public administration,2012-13,5058674,Uttar_Pradesh
+Public administration,2013-14,5483464,Uttar_Pradesh
+Public administration,2014-15,6152124,Uttar_Pradesh
+Public administration,2015-16,6823321,Uttar_Pradesh
+Other services,2011-12,3540115,Uttar_Pradesh
+Other services,2012-13,3862890,Uttar_Pradesh
+Other services,2013-14,4318007,Uttar_Pradesh
+Other services,2014-15,5034623,Uttar_Pradesh
+Other services,2015-16,5623362,Uttar_Pradesh
+"Agriculture, forestry and fishing",2011-12,1330208,Uttarakhand
+"Agriculture, forestry and fishing",2012-13,1536643,Uttarakhand
+"Agriculture, forestry and fishing",2013-14,1579095,Uttarakhand
+"Agriculture, forestry and fishing",2014-15,1601423,Uttarakhand
+"Agriculture, forestry and fishing",2015-16,1715039,Uttarakhand
+Crops,2011-12,764026,Uttarakhand
+Crops,2012-13,901730,Uttarakhand
+Crops,2013-14,850163,Uttarakhand
+Crops,2014-15,866146,Uttarakhand
+Crops,2015-16,893917,Uttarakhand
+Livestock,2011-12,287787,Uttarakhand
+Livestock,2012-13,313744,Uttarakhand
+Livestock,2013-14,351373,Uttarakhand
+Livestock,2014-15,391188,Uttarakhand
+Livestock,2015-16,447222,Uttarakhand
+Forestry and logging,2011-12,274833,Uttarakhand
+Forestry and logging,2012-13,317354,Uttarakhand
+Forestry and logging,2013-14,373062,Uttarakhand
+Forestry and logging,2014-15,339293,Uttarakhand
+Forestry and logging,2015-16,368781,Uttarakhand
+Fishing and aquaculture,2011-12,3562,Uttarakhand
+Fishing and aquaculture,2012-13,3815,Uttarakhand
+Fishing and aquaculture,2013-14,4497,Uttarakhand
+Fishing and aquaculture,2014-15,4796,Uttarakhand
+Fishing and aquaculture,2015-16,5119,Uttarakhand
+Mining and quarrying,2011-12,186083,Uttarakhand
+Mining and quarrying,2012-13,205726,Uttarakhand
+Mining and quarrying,2013-14,354844,Uttarakhand
+Mining and quarrying,2014-15,244549,Uttarakhand
+Mining and quarrying,2015-16,298187,Uttarakhand
+Manufacturing,2011-12,4365135,Uttarakhand
+Manufacturing,2012-13,5082899,Uttarakhand
+Manufacturing,2013-14,5439264,Uttarakhand
+Manufacturing,2014-15,5866252,Uttarakhand
+Manufacturing,2015-16,6132562,Uttarakhand
+"Electricity, gas, water supply & other utility services",2011-12,398079,Uttarakhand
+"Electricity, gas, water supply & other utility services",2012-13,416111,Uttarakhand
+"Electricity, gas, water supply & other utility services",2013-14,375058,Uttarakhand
+"Electricity, gas, water supply & other utility services",2014-15,433880,Uttarakhand
+"Electricity, gas, water supply & other utility services",2015-16,541284,Uttarakhand
+Construction,2011-12,883766,Uttarakhand
+Construction,2012-13,936950,Uttarakhand
+Construction,2013-14,1243051,Uttarakhand
+Construction,2014-15,1342733,Uttarakhand
+Construction,2015-16,1833004,Uttarakhand
+"Trade, repair, hotels and restaurants",2011-12,1192897,Uttarakhand
+"Trade, repair, hotels and restaurants",2012-13,1408869,Uttarakhand
+"Trade, repair, hotels and restaurants",2013-14,1614577,Uttarakhand
+"Trade, repair, hotels and restaurants",2014-15,1743106,Uttarakhand
+"Trade, repair, hotels and restaurants",2015-16,1991602,Uttarakhand
+Trade & repair services,2011-12,1013998,Uttarakhand
+Trade & repair services,2012-13,1218822,Uttarakhand
+Trade & repair services,2013-14,1426694,Uttarakhand
+Trade & repair services,2014-15,1534073,Uttarakhand
+Trade & repair services,2015-16,1768221,Uttarakhand
+Hotels & restaurants,2011-12,178899,Uttarakhand
+Hotels & restaurants,2012-13,190047,Uttarakhand
+Hotels & restaurants,2013-14,187883,Uttarakhand
+Hotels & restaurants,2014-15,209033,Uttarakhand
+Hotels & restaurants,2015-16,223381,Uttarakhand
+"Transport, storage, communication & services related to broadcasting",2011-12,703706,Uttarakhand
+"Transport, storage, communication & services related to broadcasting",2012-13,825647,Uttarakhand
+"Transport, storage, communication & services related to broadcasting",2013-14,951652,Uttarakhand
+"Transport, storage, communication & services related to broadcasting",2014-15,1066693,Uttarakhand
+"Transport, storage, communication & services related to broadcasting",2015-16,1224232,Uttarakhand
+Railways,2011-12,14140,Uttarakhand
+Railways,2012-13,16514,Uttarakhand
+Railways,2013-14,17214,Uttarakhand
+Railways,2014-15,21295,Uttarakhand
+Railways,2015-16,24470,Uttarakhand
+Road transport*,2011-12,218487,Uttarakhand
+Road transport*,2012-13,259840,Uttarakhand
+Road transport*,2013-14,287156,Uttarakhand
+Road transport*,2014-15,307147,Uttarakhand
+Road transport*,2015-16,339240,Uttarakhand
+Water transport,2011-12,NA,Uttarakhand
+Water transport,2012-13,NA,Uttarakhand
+Water transport,2013-14,NA,Uttarakhand
+Water transport,2014-15,NA,Uttarakhand
+Water transport,2015-16,NA,Uttarakhand
+Air transport,2011-12,652,Uttarakhand
+Air transport,2012-13,1229,Uttarakhand
+Air transport,2013-14,2158,Uttarakhand
+Air transport,2014-15,3889,Uttarakhand
+Air transport,2015-16,7053,Uttarakhand
+Services incidental to transport,2011-12,NA,Uttarakhand
+Services incidental to transport,2012-13,NA,Uttarakhand
+Services incidental to transport,2013-14,NA,Uttarakhand
+Services incidental to transport,2014-15,-76,Uttarakhand
+Services incidental to transport,2015-16,NA,Uttarakhand
+Storage,2011-12,579,Uttarakhand
+Storage,2012-13,678,Uttarakhand
+Storage,2013-14,735,Uttarakhand
+Storage,2014-15,660,Uttarakhand
+Storage,2015-16,699,Uttarakhand
+Communication & services related to broadcasting,2011-12,469848,Uttarakhand
+Communication & services related to broadcasting,2012-13,547386,Uttarakhand
+Communication & services related to broadcasting,2013-14,644389,Uttarakhand
+Communication & services related to broadcasting,2014-15,733778,Uttarakhand
+Communication & services related to broadcasting,2015-16,852770,Uttarakhand
+Financial services,2011-12,293318,Uttarakhand
+Financial services,2012-13,320421,Uttarakhand
+Financial services,2013-14,357514,Uttarakhand
+Financial services,2014-15,385030,Uttarakhand
+Financial services,2015-16,421624,Uttarakhand
+"Real estate, ownership of dwelling & professional services",2011-12,588825,Uttarakhand
+"Real estate, ownership of dwelling & professional services",2012-13,671182,Uttarakhand
+"Real estate, ownership of dwelling & professional services",2013-14,739177,Uttarakhand
+"Real estate, ownership of dwelling & professional services",2014-15,831307,Uttarakhand
+"Real estate, ownership of dwelling & professional services",2015-16,935310,Uttarakhand
+Public administration,2011-12,412001,Uttarakhand
+Public administration,2012-13,323723,Uttarakhand
+Public administration,2013-14,483887,Uttarakhand
+Public administration,2014-15,579409,Uttarakhand
+Public administration,2015-16,711920,Uttarakhand
+Other services,2011-12,498856,Uttarakhand
+Other services,2012-13,668947,Uttarakhand
+Other services,2013-14,827478,Uttarakhand
+Other services,2014-15,982430,Uttarakhand
+Other services,2015-16,1255262,Uttarakhand
