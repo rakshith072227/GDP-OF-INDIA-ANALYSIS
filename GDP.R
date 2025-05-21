@@ -74,3 +74,5 @@ view(final_statewise_gsdp)
 
 final_statewise_gsdp %>% 
   write_csv("final_statewise_gsdp")
+write_csv("final_statewise_gsdp")
+
